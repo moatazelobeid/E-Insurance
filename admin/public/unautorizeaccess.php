@@ -1,0 +1,1 @@
+<div style="padding: 100px; text-align: center; font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: 17px;color:#FF0066;"><strong>Sorry..!! You are not Authorize to Access this Page. </strong></div>

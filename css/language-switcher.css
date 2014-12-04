@@ -1,0 +1,169 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* ---------------------------------------------------------------------- */
+/* "Polyglot" Language Switcher
+/* ----------------------------------------------------------------------
+Version: 1.4
+Author: Ixtendo
+Author URI: http://www.ixtendo.com
+License: MIT License
+License URI: http://www.opensource.org/licenses/mit-license.php
+------------------------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------------------- */
+/* TABLE OF CONTENTS
+/* ----------------------------------------------------------------------
+-Generic
+-JS-created Code
+------------------------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------------------- */
+/* Generic
+/* ---------------------------------------------------------------------- */
+#polyglotLanguageSwitcher, #polyglotLanguageSwitcher * {
+	margin: 0;
+	padding: 0; 
+	outline: none;
+}
+
+#polyglotLanguageSwitcher ul {
+	list-style: none;	
+}
+
+#polyglotLanguageSwitcher {
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #444;
+	line-height: normal;
+	position: relative; /* sets the initial position for the drop-down menu */	
+	z-index: 100;
+}
+
+#polyglotLanguageSwitcher form {
+	display: none;	
+}
+
+/* ---------------------------------------------------------------------- */
+/* JS-created Code
+/* ---------------------------------------------------------------------- */
+#polyglotLanguageSwitcher a {
+	text-decoration: none;
+	display: block;
+	padding: 10px 29px 8px 31px;
+	line-height: 3px;
+	color: #919191;
+	width: 80px;
+	float: right;
+	font-size: 12px;
+	background-repeat: no-repeat;
+	text-transform: capitalize;
+	background-position: 6px center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#polyglotLanguageSwitcher a:hover {
+	color: #e4690f;	
+}
+
+#polyglotLanguageSwitcher a.current:link, #polyglotLanguageSwitcher a.current:visited, #polyglotLanguageSwitcher a.current:active {
+	position: relative; /* sets the initial position for the trigger arrow */
+	background-color:transparent;
+	border:1px solid #cccccc;
+	border-radius:0;
+	height: 5px; /* 15px */
+}
+#polyglotLanguageSwitcher ul.dropdown li a:hover {
+color: #e4690f;
+}
+/*#polyglotLanguageSwitcher a.current:hover, 
+#polyglotLanguageSwitcher ul.dropdown li:hover {
+	background-color: #F7F7F7;
+}*/
+
+
+
+#polyglotLanguageSwitcher span.trigger {
+display: block;
+position: absolute;
+width: 9px;
+height: 5px;
+text-indent: -10000em;
+top: 0px;
+display: block;
+right: 0px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+background-color: #F8F8F8!important;
+padding: 9px;
+border-left: 1px solid #cccccc;
+}
+
+#polyglotLanguageSwitcher a.current:link span.trigger, #polyglotLanguageSwitcher a.current:visited span.trigger {
+	background: url(../images/arrow-down.gif) no-repeat;
+	background-position: 9px 9px!important;	
+}
+
+#polyglotLanguageSwitcher a.current:hover span.trigger, #polyglotLanguageSwitcher a.current:active span.trigger, #polyglotLanguageSwitcher a.active span.trigger {
+	background-position: left bottom !important;
+	background-position: 9px 9px!important;
+}
+
+/* Drop-Down Menu */
+
+#polyglotLanguageSwitcher ul.dropdown { 
+display: none;
+position: absolute;
+top: 24px;
+right: 0px;
+background-color: #FFFFFF;
+border: 1px solid #cccccc;
+border-radius: 0;
+width: 140px;
+padding: 0px;
+}
+
+#polyglotLanguageSwitcher ul.dropdown li { 
+border-top: none;
+padding: 4px 3px 4px 0px;
+display: block;
+float: left;
+width: 100%;
+margin: 0px;
+}
+#polyglotLanguageSwitcher ul.dropdown li a { 
+border-top: none;
+padding: 2px 0px 2px 30px;
+display: block;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: #919191;
+float: left;
+height: 14px;
+width: 100%;
+line-height: 13px;
+font-size: 13px;
+}
+#polyglotLanguageSwitcher ul.dropdown li:last-child { 
+	border-radius: 0px;
+}
+
+/* Flags */
+
+#en { 
+	background-image: url(../images/flags/gb.png);
+}
+
+#ar { 
+	background-image: url(../images/flags/ar.png);	
+}
+#au { 
+	background-image: url(../images/flags/au.png);
+}
+
+#uk { 
+	background-image: url(../images/flags/uk.png);	
+}
+

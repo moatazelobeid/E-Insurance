@@ -1,0 +1,14 @@
+/* here you can put your own css to customize and override the theme */
+.logo-panel {
+	display: block;
+	width: 360px;
+	margin: 0 auto;
+	margin-bottom: -14px;
+	text-align: center;
+	background: linear-gradient(to bottom, rgba(255, 255, 255, 0.89) 38%,rgba(223, 223, 223, 0.89) 100%);
+}
+
+.logo-panel img {
+	width: 60%;
+	border: none;
+}
