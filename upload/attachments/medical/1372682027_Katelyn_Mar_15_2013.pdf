@@ -1,0 +1,5183 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+12 0 R
+27 0 R
+30 0 R
+32 0 R
+133 0 R
+175 0 R
+195 0 R
+]
+/Count 8
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+/XObject << 
+/I1 11 0 R
+/I2 14 0 R
+/I3 15 0 R
+/I4 16 0 R
+/I5 17 0 R
+/I6 18 0 R
+/I7 19 0 R
+/I8 20 0 R
+/I9 21 0 R
+/I10 22 0 R
+/I11 23 0 R
+/I12 24 0 R
+/I13 25 0 R
+/I14 26 0 R
+/I15 29 0 R
+/I16 34 0 R
+/I17 35 0 R
+/I18 36 0 R
+/I19 37 0 R
+/I20 38 0 R
+/I21 39 0 R
+/I22 40 0 R
+/I23 41 0 R
+/I24 42 0 R
+/I25 43 0 R
+/I26 44 0 R
+/I27 45 0 R
+/I28 46 0 R
+/I29 47 0 R
+/I30 48 0 R
+/I31 49 0 R
+/I32 50 0 R
+/I33 51 0 R
+/I34 52 0 R
+/I35 53 0 R
+/I36 54 0 R
+/I37 55 0 R
+/I38 56 0 R
+/I39 57 0 R
+/I40 58 0 R
+/I41 59 0 R
+/I42 60 0 R
+/I43 61 0 R
+/I44 62 0 R
+/I45 63 0 R
+/I46 64 0 R
+/I47 65 0 R
+/I48 66 0 R
+/I49 67 0 R
+/I50 68 0 R
+/I51 69 0 R
+/I52 70 0 R
+/I53 71 0 R
+/I54 72 0 R
+/I55 73 0 R
+/I56 74 0 R
+/I57 75 0 R
+/I58 76 0 R
+/I59 77 0 R
+/I60 78 0 R
+/I61 79 0 R
+/I62 80 0 R
+/I63 81 0 R
+/I64 82 0 R
+/I65 83 0 R
+/I66 84 0 R
+/I67 85 0 R
+/I68 86 0 R
+/I69 87 0 R
+/I70 88 0 R
+/I71 89 0 R
+/I72 90 0 R
+/I73 91 0 R
+/I74 92 0 R
+/I75 93 0 R
+/I76 94 0 R
+/I77 95 0 R
+/I78 96 0 R
+/I79 97 0 R
+/I80 98 0 R
+/I81 99 0 R
+/I82 100 0 R
+/I83 101 0 R
+/I84 102 0 R
+/I85 103 0 R
+/I86 104 0 R
+/I87 105 0 R
+/I88 106 0 R
+/I89 107 0 R
+/I90 108 0 R
+/I91 109 0 R
+/I92 110 0 R
+/I93 111 0 R
+/I94 112 0 R
+/I95 113 0 R
+/I96 114 0 R
+/I97 115 0 R
+/I98 116 0 R
+/I99 117 0 R
+/I100 118 0 R
+/I101 119 0 R
+/I102 120 0 R
+/I103 121 0 R
+/I104 122 0 R
+/I105 123 0 R
+/I106 124 0 R
+/I107 125 0 R
+/I108 126 0 R
+/I109 127 0 R
+/I110 128 0 R
+/I111 129 0 R
+/I112 130 0 R
+/I113 131 0 R
+/I114 132 0 R
+/I115 135 0 R
+/I116 136 0 R
+/I117 137 0 R
+/I118 138 0 R
+/I119 139 0 R
+/I120 140 0 R
+/I121 141 0 R
+/I122 142 0 R
+/I123 143 0 R
+/I124 144 0 R
+/I125 145 0 R
+/I126 146 0 R
+/I127 147 0 R
+/I128 148 0 R
+/I129 149 0 R
+/I130 150 0 R
+/I131 151 0 R
+/I132 152 0 R
+/I133 153 0 R
+/I134 154 0 R
+/I135 155 0 R
+/I136 156 0 R
+/I137 157 0 R
+/I138 158 0 R
+/I139 159 0 R
+/I140 160 0 R
+/I141 161 0 R
+/I142 162 0 R
+/I143 163 0 R
+/I144 164 0 R
+/I145 165 0 R
+/I146 166 0 R
+/I147 167 0 R
+/I148 168 0 R
+/I149 169 0 R
+/I150 170 0 R
+/I151 171 0 R
+/I152 172 0 R
+/I153 173 0 R
+/I154 174 0 R
+/I155 177 0 R
+/I156 178 0 R
+/I157 179 0 R
+/I158 180 0 R
+/I159 181 0 R
+/I160 182 0 R
+/I161 183 0 R
+/I162 184 0 R
+/I163 185 0 R
+/I164 186 0 R
+/I165 187 0 R
+/I166 188 0 R
+/I167 189 0 R
+/I168 190 0 R
+/I169 191 0 R
+/I170 192 0 R
+/I171 193 0 R
+/I172 194 0 R
+/I173 197 0 R
+/I174 198 0 R
+/I175 199 0 R
+/I176 200 0 R
+/I177 201 0 R
+/I178 202 0 R
+/I179 203 0 R
+/I180 204 0 R
+/I181 205 0 R
+/I182 206 0 R
+/I183 207 0 R
+/I184 208 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text /ImageC ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20130627121229+05'30')
+/ModDate (D:20130627121229+05'30')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 7608 >>
+stream
+
+0.000 0.459 0.788 rg
+BT 37.016 741.065 Td /F2 14.2 Tf  [(APPLICATION CHECKLIST)] TJ ET
+0.800 0.800 0.800 rg
+37.391 577.414 223.593 0.750 re f
+37.391 542.414 223.593 0.750 re f
+37.391 542.414 0.750 35.750 re f
+0.000 0.000 0.000 rg
+BT 41.516 556.718 Td /F3 9.8 Tf  [(Application Step)] TJ ET
+0.800 0.800 0.800 rg
+260.234 577.414 80.067 0.750 re f
+260.234 542.414 80.067 0.750 re f
+260.234 542.414 0.750 35.750 re f
+0.000 0.000 0.000 rg
+BT 285.986 556.718 Td /F3 9.8 Tf  [(Step 4)] TJ ET
+0.800 0.800 0.800 rg
+339.551 577.414 76.290 0.750 re f
+339.551 542.414 76.290 0.750 re f
+339.551 542.414 0.750 35.750 re f
+415.091 542.414 0.750 35.750 re f
+0.000 0.000 0.000 rg
+BT 353.301 556.718 Td /F3 9.8 Tf  [(03/15/2013)] TJ ET
+BT 422.966 556.718 Td /F3 9.8 Tf  [(Phone Interview:)] TJ ET
+BT 498.584 556.718 Td /F3 9.8 Tf  [(No)] TJ ET
+0.800 0.800 0.800 rg
+37.391 508.164 223.593 0.750 re f
+37.391 508.164 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 522.468 Td /F3 9.8 Tf  [(Agreement)] TJ ET
+0.800 0.800 0.800 rg
+260.234 508.164 80.067 0.750 re f
+260.234 508.164 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 291.680 522.468 Td /F3 9.8 Tf  [(Yes)] TJ ET
+0.800 0.800 0.800 rg
+339.551 508.164 76.290 0.750 re f
+339.551 508.164 0.750 35.375 re f
+415.091 508.164 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 353.301 522.468 Td /F3 9.8 Tf  [(03/15/2013)] TJ ET
+BT 422.966 519.093 Td /F3 9.8 Tf  [(School Tuition:)] TJ ET
+BT 490.452 519.093 Td /F3 9.8 Tf  [(yes)] TJ ET
+0.800 0.800 0.800 rg
+37.391 473.914 223.593 0.750 re f
+37.391 473.914 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 488.218 Td /F3 9.8 Tf  [(Application Fee)] TJ ET
+0.800 0.800 0.800 rg
+260.234 473.914 80.067 0.750 re f
+260.234 473.914 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 293.849 488.218 Td /F3 9.8 Tf  [(No)] TJ ET
+0.800 0.800 0.800 rg
+339.551 473.914 76.290 0.750 re f
+339.551 473.914 0.750 35.375 re f
+415.091 473.914 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 422.966 484.843 Td /F3 9.8 Tf  [(Discount:)] TJ ET
+BT 466.604 484.843 Td /F3 9.8 Tf  [(.)] TJ ET
+0.800 0.800 0.800 rg
+37.391 439.664 223.593 0.750 re f
+37.391 439.664 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 453.968 Td /F3 9.8 Tf  [(Confidential Health Form)] TJ ET
+0.800 0.800 0.800 rg
+260.234 439.664 80.067 0.750 re f
+260.234 439.664 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 291.680 453.968 Td /F3 9.8 Tf  [(Yes)] TJ ET
+0.800 0.800 0.800 rg
+339.551 439.664 76.290 0.750 re f
+339.551 439.664 0.750 35.375 re f
+415.091 439.664 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 356.012 453.968 Td /F3 9.8 Tf  [(04/5/2013)] TJ ET
+BT 422.966 450.593 Td /F3 9.8 Tf  [(Discount/Reason:)] TJ ET
+BT 502.913 450.593 Td /F3 9.8 Tf  [(no)] TJ ET
+0.800 0.800 0.800 rg
+37.391 405.414 223.593 0.750 re f
+37.391 405.414 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 419.718 Td /F3 9.8 Tf  [(Reference 1)] TJ ET
+0.800 0.800 0.800 rg
+260.234 405.414 80.067 0.750 re f
+260.234 405.414 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 291.680 419.718 Td /F3 9.8 Tf  [(Yes)] TJ ET
+0.800 0.800 0.800 rg
+339.551 405.414 76.290 0.750 re f
+339.551 405.414 0.750 35.375 re f
+415.091 405.414 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 353.301 419.718 Td /F3 9.8 Tf  [(04/18/2013)] TJ ET
+0.800 0.800 0.800 rg
+37.391 371.164 223.593 0.750 re f
+37.391 371.164 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 385.468 Td /F3 9.8 Tf  [(Reference 2)] TJ ET
+0.800 0.800 0.800 rg
+260.234 371.164 80.067 0.750 re f
+260.234 371.164 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 291.680 385.468 Td /F3 9.8 Tf  [(Yes)] TJ ET
+0.800 0.800 0.800 rg
+339.551 371.164 76.290 0.750 re f
+339.551 371.164 0.750 35.375 re f
+415.091 371.164 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 353.301 385.468 Td /F3 9.8 Tf  [(04/18/2013)] TJ ET
+0.800 0.800 0.800 rg
+37.391 336.914 223.593 0.750 re f
+37.391 336.914 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 351.218 Td /F3 9.8 Tf  [(Pastor's Reference)] TJ ET
+0.800 0.800 0.800 rg
+260.234 336.914 80.067 0.750 re f
+260.234 336.914 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 291.680 351.218 Td /F3 9.8 Tf  [(Yes)] TJ ET
+0.800 0.800 0.800 rg
+339.551 336.914 76.290 0.750 re f
+339.551 336.914 0.750 35.375 re f
+415.091 336.914 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 353.301 351.218 Td /F3 9.8 Tf  [(04/18/2013)] TJ ET
+0.800 0.800 0.800 rg
+37.391 302.664 223.593 0.750 re f
+37.391 302.664 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 316.968 Td /F3 9.8 Tf  [(Special Requirements)] TJ ET
+0.800 0.800 0.800 rg
+260.234 302.664 80.067 0.750 re f
+260.234 302.664 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 288.428 316.968 Td /F3 9.8 Tf  [(None)] TJ ET
+0.800 0.800 0.800 rg
+339.551 302.664 76.290 0.750 re f
+339.551 302.664 0.750 35.375 re f
+415.091 302.664 0.750 35.375 re f
+37.391 268.414 223.593 0.750 re f
+37.391 268.414 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 282.718 Td /F3 9.8 Tf  [(Accptance Package Sent)] TJ ET
+0.800 0.800 0.800 rg
+260.234 268.414 80.067 0.750 re f
+260.234 268.414 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 291.680 282.718 Td /F3 9.8 Tf  [(Yes)] TJ ET
+0.800 0.800 0.800 rg
+339.551 268.414 76.290 0.750 re f
+339.551 268.414 0.750 35.375 re f
+415.091 268.414 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 353.301 282.718 Td /F3 9.8 Tf  [(05/06/2013)] TJ ET
+0.800 0.800 0.800 rg
+37.391 234.164 223.593 0.750 re f
+37.391 234.164 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 248.468 Td /F3 9.8 Tf  [(Visa/invitation letters)] TJ ET
+0.800 0.800 0.800 rg
+260.234 234.164 80.067 0.750 re f
+260.234 234.164 0.750 35.375 re f
+339.551 234.164 76.290 0.750 re f
+339.551 234.164 0.750 35.375 re f
+415.091 234.164 0.750 35.375 re f
+37.391 199.914 223.593 0.750 re f
+37.391 199.914 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 41.516 214.218 Td /F3 9.8 Tf  [(Mandatory Vaccines)] TJ ET
+0.800 0.800 0.800 rg
+260.234 199.914 80.067 0.750 re f
+260.234 199.914 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 291.680 214.218 Td /F3 9.8 Tf  [(Yes)] TJ ET
+0.800 0.800 0.800 rg
+339.551 199.914 76.290 0.750 re f
+339.551 199.914 0.750 35.375 re f
+415.091 199.914 0.750 35.375 re f
+0.000 0.000 0.000 rg
+BT 358.722 214.218 Td /F3 9.8 Tf  [(4/5/2013)] TJ ET
+BT 37.016 183.634 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 183.634 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 183.634 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 164.878 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 164.878 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 164.878 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 146.122 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 146.122 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 146.122 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 127.366 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 127.366 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 127.366 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 108.610 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 108.610 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 108.610 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 89.854 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 89.854 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 89.854 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 71.098 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 71.098 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 71.098 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 52.342 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 52.342 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 52.342 Td /F1 12.0 Tf  [( )] TJ ET
+q
+112.500 0 0 112.500 37.016 620.585 cm /I1 Do
+Q
+0.086 0.455 0.729 rg
+BT 37.016 609.596 Td /F2 11.2 Tf  [(KATELYN JONES)] TJ ET
+BT 37.016 597.325 Td /F3 9.8 Tf  [(AROUND THE WORLD DTS)] TJ ET
+BT 37.016 585.420 Td /F3 9.8 Tf  [(Jun 24, 2013)] TJ ET
+BT 37.016 609.596 Td /F2 11.2 Tf  [(KATELYN JONES)] TJ ET
+BT 37.016 597.325 Td /F3 9.8 Tf  [(AROUND THE WORLD DTS)] TJ ET
+BT 37.016 585.420 Td /F3 9.8 Tf  [(Jun 24, 2013)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 150
+/Height 150
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 150 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 454>>
+stream
+xœíÕ±MÃ@ †Ñ;HLÅÔÙ„–.›0E¦B‚˜P8¸)¬Oz¯¹+é“î†—·e[à^Ór¼¿>Oã°ínr/‡ãi·&|z7İÃÍöÅ®é÷ü³ÙşeMæ/Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì“0OÂ<	ó$Ì»&ÜZÆ¬É¦åøüš§qØn7;Ï—årMx8¶Ã]¼Ÿy¿‚ök
+endstream
+endobj
+12 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 13 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 7295 >>
+stream
+
+0.086 0.455 0.729 rg
+0.000 0.000 0.000 rg
+BT 37.016 743.579 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 743.579 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 743.579 Td /F1 12.0 Tf  [( )] TJ ET
+0.000 0.459 0.788 rg
+BT 37.016 676.303 Td /F2 11.2 Tf  [(Name)] TJ ET
+BT 37.016 596.435 Td /F2 11.2 Tf  [(Birthday)] TJ ET
+0.000 0.000 0.000 rg
+BT 250.513 572.161 Td /F1 12.0 Tf  [(Age: )] TJ ET
+0.565 0.565 0.565 rg
+BT 276.841 572.161 Td /F1 12.0 Tf  [(18)] TJ ET
+q
+9.000 0 0 9.000 460.410 573.390 cm /I3 Do
+Q
+0.000 0.000 0.000 rg
+BT 469.410 572.867 Td /F3 9.8 Tf  [( Male )] TJ ET
+q
+9.000 0 0 9.000 495.960 573.390 cm /I5 Do
+Q
+BT 504.960 572.867 Td /F3 9.8 Tf  [( Female)] TJ ET
+0.000 0.459 0.788 rg
+BT 37.016 542.567 Td /F2 11.2 Tf  [(Marital Status)] TJ ET
+0.000 0.000 0.000 rg
+BT 37.016 494.664 Td /F3 9.8 Tf  [(Child\(ren\) you would like to bring along?)] TJ ET
+q
+9.000 0 0 9.000 228.666 495.188 cm /I7 Do
+Q
+BT 237.666 494.664 Td /F3 9.8 Tf  [( No )] TJ ET
+q
+9.000 0 0 9.000 255.548 495.188 cm /I9 Do
+Q
+BT 264.548 494.664 Td /F3 9.8 Tf  [( Yes)] TJ ET
+0.000 0.459 0.788 rg
+BT 37.016 468.662 Td /F2 11.2 Tf  [(Address)] TJ ET
+0.000 0.000 0.000 rg
+BT 206.216 362.006 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 362.006 Td /F1 12.0 Tf  [( )] TJ ET
+0.000 0.459 0.788 rg
+BT 37.016 332.162 Td /F2 11.2 Tf  [(Emergency Contact)] TJ ET
+BT 37.016 272.162 Td /F2 11.2 Tf  [(Education)] TJ ET
+q
+37.016 237.277 631.600 5.250 re W n
+q
+631.600 0 0 3.750 37.016 238.777 cm /I10 Do
+Q
+Q
+q
+37.016 194.623 631.600 5.250 re W n
+q
+631.600 0 0 3.750 37.016 196.123 cm /I10 Do
+Q
+Q
+q
+37.016 114.563 631.600 5.250 re W n
+q
+631.600 0 0 3.750 37.016 116.063 cm /I10 Do
+Q
+Q
+q
+37.016 88.313 631.600 5.250 re W n
+q
+631.600 0 0 3.750 37.016 89.813 cm /I10 Do
+Q
+Q
+q
+37.016 71.158 631.600 5.250 re W n
+q
+631.600 0 0 3.750 37.016 72.658 cm /I10 Do
+Q
+Q
+q
+37.016 44.908 631.600 5.250 re W n
+q
+631.600 0 0 3.750 37.016 46.408 cm /I10 Do
+Q
+Q
+0.086 0.455 0.729 rg
+BT 37.016 726.704 Td /F3 9.8 Tf  [(AROUND THE WORLD DTS)] TJ ET
+0.000 0.459 0.788 rg
+BT 37.016 705.904 Td /F2 14.2 Tf  [(PERSONAL INFORMATION)] TJ ET
+1.000 1.000 1.000 rg
+37.016 637.424 156.000 21.000 re f
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+37.391 637.799 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 646.153 Td /F3 9.8 Tf  [(Katelyn)] TJ ET
+1.000 1.000 1.000 rg
+206.216 637.424 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 637.799 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 209.216 646.153 Td /F3 9.8 Tf  [(Suzanne)] TJ ET
+1.000 1.000 1.000 rg
+420.716 637.424 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+421.091 637.799 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 423.716 646.153 Td /F3 9.8 Tf  [(Jones)] TJ ET
+1.000 1.000 1.000 rg
+37.016 611.924 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 612.299 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 620.653 Td /F3 9.8 Tf  [(katelyn_jones@sbcglobal.net)] TJ ET
+1.000 1.000 1.000 rg
+39.266 565.938 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+39.641 566.313 46.500 20.250 re S
+0.000 0.000 0.000 rg
+BT 42.266 574.667 Td /F3 9.8 Tf  [(7)] TJ ET
+1.000 1.000 1.000 rg
+109.682 565.938 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+110.057 566.313 46.500 20.250 re S
+0.000 0.000 0.000 rg
+BT 112.682 574.667 Td /F3 9.8 Tf  [(Jul)] TJ ET
+1.000 1.000 1.000 rg
+180.097 565.938 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+180.472 566.313 46.500 20.250 re S
+0.000 0.000 0.000 rg
+BT 183.097 574.667 Td /F3 9.8 Tf  [(1995)] TJ ET
+1.000 1.000 1.000 rg
+320.929 565.938 81.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+321.304 566.313 80.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 323.929 574.667 Td /F3 9.8 Tf  [(USA)] TJ ET
+1.000 1.000 1.000 rg
+37.016 508.688 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 509.063 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 517.417 Td /F3 9.8 Tf  [(Single)] TJ ET
+1.000 1.000 1.000 rg
+206.216 508.688 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 509.063 155.250 20.250 re S
+37.016 432.283 538.500 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 432.658 537.750 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 441.012 Td /F3 9.8 Tf  [(3508 Tripp)] TJ ET
+1.000 1.000 1.000 rg
+37.016 406.783 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 407.158 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 415.512 Td /F3 9.8 Tf  [(Amarillo)] TJ ET
+1.000 1.000 1.000 rg
+206.216 406.783 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 407.158 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 209.216 415.512 Td /F3 9.8 Tf  [(Texas)] TJ ET
+1.000 1.000 1.000 rg
+420.716 406.783 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+421.091 407.158 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 423.716 415.512 Td /F3 9.8 Tf  [(79121)] TJ ET
+1.000 1.000 1.000 rg
+37.016 381.283 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 381.658 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 390.012 Td /F3 9.8 Tf  [(United States of America)] TJ ET
+1.000 1.000 1.000 rg
+206.216 381.283 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 381.658 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 209.216 390.012 Td /F3 9.8 Tf  [(8063415405)] TJ ET
+1.000 1.000 1.000 rg
+420.716 381.283 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+421.091 381.658 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 423.716 390.012 Td /F3 9.8 Tf  [(8063411802)] TJ ET
+1.000 1.000 1.000 rg
+37.016 355.783 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 356.158 155.250 20.250 re S
+37.016 295.783 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 296.158 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 304.512 Td /F3 9.8 Tf  [(Larry Jones)] TJ ET
+1.000 1.000 1.000 rg
+206.216 295.783 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 296.158 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 209.216 304.512 Td /F3 9.8 Tf  [(8066761555)] TJ ET
+1.000 1.000 1.000 rg
+420.716 295.783 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+421.091 296.158 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 423.716 304.512 Td /F3 9.8 Tf  [(larry_christie@sbcglobal.net)] TJ ET
+BT 37.016 245.378 Td /F3 9.8 Tf  [(Highest level of education completed)] TJ ET
+1.000 1.000 1.000 rg
+37.016 216.277 538.500 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 216.652 537.750 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 225.006 Td /F3 9.8 Tf  [(Bachelor Degree)] TJ ET
+BT 37.016 202.253 Td /F3 9.8 Tf  [(What languages do you speak?)] TJ ET
+1.000 1.000 1.000 rg
+37.016 173.623 538.500 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 173.998 537.750 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 182.351 Td /F3 9.8 Tf  [(English and I can read)] TJ ET
+BT 37.016 159.599 Td /F3 9.8 Tf  [(Military service?)] TJ ET
+q
+9.000 0 0 9.000 129.104 160.123 cm /I12 Do
+Q
+BT 138.104 159.599 Td /F3 9.8 Tf  [(No )] TJ ET
+q
+9.000 0 0 9.000 153.275 160.123 cm /I14 Do
+Q
+BT 162.275 159.599 Td /F3 9.8 Tf  [( yes)] TJ ET
+1.000 1.000 1.000 rg
+37.016 136.218 538.500 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 136.593 537.750 20.250 re S
+37.016 136.218 538.500 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 136.593 537.750 20.250 re S
+0.000 0.000 0.000 rg
+BT 37.016 122.194 Td /F3 9.8 Tf  [(Present employer)] TJ ET
+1.000 1.000 1.000 rg
+37.016 93.563 538.500 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 93.938 537.750 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 102.292 Td /F3 9.8 Tf  [(N/A)] TJ ET
+BT 37.016 78.789 Td /F3 9.8 Tf  [(Occupation)] TJ ET
+1.000 1.000 1.000 rg
+37.016 50.158 538.500 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 50.533 537.750 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 58.887 Td /F3 9.8 Tf  [(N/A)] TJ ET
+endstream
+endobj
+14 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+15 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 14 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 384>>
+stream
+•EÍnÚ@E¿qÿŒm µU%«ª”)Ù$³åEâ<Zœ§H%Q¥2*u0`ˆ ‰ƒ1Y8Qïæ.îY\ŸéõûBˆÙl ”RÆØåÅE1¡¢ÂÛÛz½ÎÚmÏó `:Š(Šã8¸ºú€nÂĞgìèèø×ïh±z ç°òİoİßİ…¸Ôë÷—ËåùÙyoğ“bš&B({KÓ4==ş1ªÕêA§Ó9=9ùówªà²mãR‰èZ¥l©o6kZ«F#%IJébµª”m]Ã¶©W,Ã"FÍı’e;Ji’$¥â¸†114CSuMUUUQĞ~¦I²l‡R\×Ïç®s˜gÛ‚PUŒ1Î÷¹mY‹Å?ÇqŸ±±ß¾6___Ò·TQ l·Ù.ÛBÆBøŒ)œs)åÃÃ½ÏBh½ŞlŸó<7}8J)9ç2oÂ°Ùl¶[­F£ q‹(’R^Áã Ğív£ÇÇÉd çùŒqÎ‹éñšq
+endstream
+endobj
+16 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+17 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 16 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 422>>
+stream
+•cd€“§Nİ»wïÕ«WbbbJJJæff)FµpÑ"			%EEqqq†—/_Ş»ÿÅ‹ñqqPE.TVRÒÒÒ>{éúé+·ÌõÔu5¯]½z÷Ş½„øxÆ“§N}øğÁÀÀpÁÚíó6ìS”‘x÷îİ«÷Ÿò¢|bƒ<Î;'  Àìèè¨«£sıöÃæY«rr3¢ã^«(_ØìÌÅë®æ:Ò’’—/_fzóæ˜˜Ø‘óWxØ™ş+ËO{ü`ÿƒ¿Ì^Ù¿¿~<vá¦˜˜Ø›7oX gefyñâÅ¤]ÿñqÿøÍğı×.v¶¿ÿ2222‰ˆˆ¼~ıÚÎT—•[àí†éïŸ}ûüêÛ¿ÓÙyœ,Ş½{',,Ì\VZúâåK}mQ>Î“g/3]ÙÍ~ó7Ë„ª}•ËW®HJH ‚@WWïáÓgWo?bfa6ÖV¼pá4 nZ°p¡”””¢‚‚¤¤$Ã‹/îİ¿ÿìÙ³„øxDˆ300œ8qâşƒÏŸ?g``WVR²°°€H Ä™±
+endstream
+endobj
+18 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+19 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 18 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 422>>
+stream
+•cd€“§Nİ»wïÕ«WbbbJJJæff)FµpÑ"			%EEqqq†—/_Ş»ÿÅ‹ñqqPE.TVRÒÒÒ>{éúé+·ÌõÔu5¯]½z÷Ş½„øxÆ“§N}øğÁÀÀpÁÚíó6ìS”‘x÷îİ«÷Ÿò¢|bƒ<Î;'  Àìèè¨«£sıöÃæY«rr3¢ã^«(_ØìÌÅë®æ:Ò’’—/_fzóæ˜˜Ø‘óWxØ™ş+ËO{ü`ÿƒ¿Ì^Ù¿¿~<vá¦˜˜Ø›7oX gefyñâÅ¤]ÿñqÿøÍğı×.v¶¿ÿ2222‰ˆˆ¼~ıÚÎT—•[àí†éïŸ}ûüêÛ¿ÓÙyœ,Ş½{',,Ì\VZúâåK}mQ>Î“g/3]ÙÍ~ó7Ë„ª}•ËW®HJH ‚@WWïáÓgWo?bfa6ÖV¼pá4 nZ°p¡”””¢‚‚¤¤$Ã‹/îİ¿ÿìÙ³„øxDˆ300œ8qâşƒÏŸ?g``WVR²°°€H Ä™±
+endstream
+endobj
+20 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+21 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 20 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 384>>
+stream
+•EÍnÚ@E¿qÿŒm µU%«ª”)Ù$³åEâ<Zœ§H%Q¥2*u0`ˆ ‰ƒ1Y8Qïæ.îY\ŸéõûBˆÙl ”RÆØåÅE1¡¢ÂÛÛz½ÎÚmÏó `:Š(Šã8¸ºú€nÂĞgìèèø×ïh±z ç°òİoİßİ…¸Ôë÷—ËåùÙyoğ“bš&B({KÓ4==ş1ªÕêA§Ó9=9ùówªà²mãR‰èZ¥l©o6kZ«F#%IJébµª”m]Ã¶©W,Ã"FÍı’e;Ji’$¥â¸†114CSuMUUUQĞ~¦I²l‡R\×Ïç®s˜gÛ‚PUŒ1Î÷¹mY‹Å?ÇqŸ±±ß¾6___Ò·TQ l·Ù.ÛBÆBøŒ)œs)åÃÃ½ÏBh½ŞlŸó<7}8J)9ç2oÂ°Ùl¶[­F£ q‹(’R^Áã Ğív£ÇÇÉd çùŒqÎ‹éñšq
+endstream
+endobj
+22 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 842
+/Height 5
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 842 /BitsPerComponent 8>>
+/Mask  [ 255 255 255 255 255 255 ] 
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 54>>
+stream
+híÖÁ	 0±¶ûïì.i‚{ŞMr  hñ¶  ˜dï  ªØ; €*ö  Ê§Ã
+endstream
+endobj
+23 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+24 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 23 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 422>>
+stream
+•cd€“§Nİ»wïÕ«WbbbJJJæff)FµpÑ"			%EEqqq†—/_Ş»ÿÅ‹ñqqPE.TVRÒÒÒ>{éúé+·ÌõÔu5¯]½z÷Ş½„øxÆ“§N}øğÁÀÀpÁÚíó6ìS”‘x÷îİ«÷Ÿò¢|bƒ<Î;'  Àìèè¨«£sıöÃæY«rr3¢ã^«(_ØìÌÅë®æ:Ò’’—/_fzóæ˜˜Ø‘óWxØ™ş+ËO{ü`ÿƒ¿Ì^Ù¿¿~<vá¦˜˜Ø›7oX gefyñâÅ¤]ÿñqÿøÍğı×.v¶¿ÿ2222‰ˆˆ¼~ıÚÎT—•[àí†éïŸ}ûüêÛ¿ÓÙyœ,Ş½{',,Ì\VZúâåK}mQ>Î“g/3]ÙÍ~ó7Ë„ª}•ËW®HJH ‚@WWïáÓgWo?bfa6ÖV¼pá4 nZ°p¡”””¢‚‚¤¤$Ã‹/îİ¿ÿìÙ³„øxDˆ300œ8qâşƒÏŸ?g``WVR²°°€H Ä™±
+endstream
+endobj
+25 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+26 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 25 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 384>>
+stream
+•EÍnÚ@E¿qÿŒm µU%«ª”)Ù$³åEâ<Zœ§H%Q¥2*u0`ˆ ‰ƒ1Y8Qïæ.îY\ŸéõûBˆÙl ”RÆØåÅE1¡¢ÂÛÛz½ÎÚmÏó `:Š(Šã8¸ºú€nÂĞgìèèø×ïh±z ç°òİoİßİ…¸Ôë÷—ËåùÙyoğ“bš&B({KÓ4==ş1ªÕêA§Ó9=9ùówªà²mãR‰èZ¥l©o6kZ«F#%IJébµª”m]Ã¶©W,Ã"FÍı’e;Ji’$¥â¸†114CSuMUUUQĞ~¦I²l‡R\×Ïç®s˜gÛ‚PUŒ1Î÷¹mY‹Å?ÇqŸ±±ß¾6___Ò·TQ l·Ù.ÛBÆBøŒ)œs)åÃÃ½ÏBh½ŞlŸó<7}8J)9ç2oÂ°Ùl¶[­F£ q‹(’R^Áã Ğív£ÇÇÉd çùŒqÎ‹éñšq
+endstream
+endobj
+27 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 5171 >>
+stream
+
+0.000 0.000 0.000 rg
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+BT 37.016 745.460 Td /F3 9.8 Tf  [(Occupational skills)] TJ ET
+q
+37.016 737.830 631.600 5.250 re W n
+q
+631.600 0 0 3.750 37.016 739.330 cm /I10 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 665.790 Td /F3 9.8 Tf  [(Years experience)] TJ ET
+q
+37.016 658.159 631.600 5.250 re W n
+q
+631.600 0 0 3.750 37.016 659.659 cm /I10 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 623.135 Td /F3 9.8 Tf  [(Musical abilities / Other talents)] TJ ET
+q
+37.016 615.504 631.600 5.250 re W n
+q
+631.600 0 0 3.750 37.016 617.004 cm /I10 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 505.700 Td /F3 9.8 Tf  [(How long have you been a "born-again" christian)] TJ ET
+q
+37.016 497.599 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 499.099 cm /I15 Do
+Q
+Q
+0.000 0.459 0.788 rg
+BT 37.016 452.978 Td /F2 11.2 Tf  [(History)] TJ ET
+0.000 0.000 0.000 rg
+BT 37.016 419.028 Td /F3 9.8 Tf  [(1. Briefly describe your conversion experience and present relationship with the Lord.)] TJ ET
+BT 37.016 314.028 Td /F3 9.8 Tf  [(2. Describe other significant spiritual experiences you have had in your walk with the Lord.)] TJ ET
+BT 37.016 217.605 Td /F3 9.8 Tf  [(3. How would you describe your relationship with your family? Include how they feel about your plans to attend this YWAM )] TJ ET
+BT 37.016 205.700 Td /F3 9.8 Tf  [(program. )] TJ ET
+q
+37.016 198.069 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 199.569 cm /I15 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 106.653 Td /F3 9.8 Tf  [(4. Describe your relationship with your local church. Include areas of service and leadership.)] TJ ET
+q
+37.016 99.022 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 100.522 cm /I15 Do
+Q
+Q
+1.000 1.000 1.000 rg
+37.016 716.830 538.500 21.000 re f
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+37.391 717.205 537.750 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 725.558 Td /F3 9.8 Tf  [(register)] TJ ET
+1.000 1.000 1.000 rg
+37.016 637.159 538.500 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 637.534 537.750 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 645.888 Td /F3 9.8 Tf  [(9 months)] TJ ET
+1.000 1.000 1.000 rg
+37.016 594.504 538.500 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 594.879 537.750 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 603.233 Td /F3 9.8 Tf  [(singing and violin)] TJ ET
+0.000 0.459 0.788 rg
+BT 37.016 576.085 Td /F2 14.2 Tf  [(PERSONAL HISTORY)] TJ ET
+1.000 1.000 1.000 rg
+37.016 547.105 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 547.480 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 555.834 Td /F3 9.8 Tf  [(Trinity Fellowship Church)] TJ ET
+1.000 1.000 1.000 rg
+206.216 547.105 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 547.480 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 209.216 555.834 Td /F3 9.8 Tf  [(Daniel Proffit)] TJ ET
+1.000 1.000 1.000 rg
+420.716 547.105 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+421.091 547.480 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 423.716 555.834 Td /F3 9.8 Tf  [(10 years)] TJ ET
+1.000 1.000 1.000 rg
+37.016 521.605 379.200 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 521.980 378.450 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 530.334 Td /F3 9.8 Tf  [(5000 Hollywood Rd Amarillo Tx, 79118)] TJ ET
+1.000 1.000 1.000 rg
+420.716 521.605 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+421.091 521.980 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 423.716 530.334 Td /F3 9.8 Tf  [(8063836990)] TJ ET
+1.000 1.000 1.000 rg
+37.016 476.599 156.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 476.974 155.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 485.328 Td /F3 9.8 Tf  [(7 years)] TJ ET
+1.000 1.000 1.000 rg
+37.016 337.099 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 337.474 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 390.828 Td /F3 9.8 Tf  [(I grew up in a home with parents who taught me about Christ and prayed with me every night before bed. I grew up having )] TJ ET
+BT 40.016 378.923 Td /F3 9.8 Tf  [(a relationship with Him from the very beginning. At 7 I asked Jesus into my heart and at 12 I was baptized. He continues to )] TJ ET
+BT 40.016 367.018 Td /F3 9.8 Tf  [(teach me daily thru trial and error and that He will always be there for me, walking with me thru everything. I\\'ve always )] TJ ET
+BT 40.016 355.113 Td /F3 9.8 Tf  [(known God as my loving father and I cant imagine life without Him.)] TJ ET
+1.000 1.000 1.000 rg
+37.016 232.099 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 232.474 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 285.828 Td /F3 9.8 Tf  [(In the past year He has brought me thru trials upon trials that tested me but thru resources and people He placed in my )] TJ ET
+BT 40.016 273.923 Td /F3 9.8 Tf  [(path, He brought me out of that and into a stronger relationship with Him.)] TJ ET
+1.000 1.000 1.000 rg
+37.016 127.099 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 127.474 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 180.828 Td /F3 9.8 Tf  [(They are very encouraging. My mom has prayed for me and my future since she was expecting me and has always felt the )] TJ ET
+BT 40.016 168.923 Td /F3 9.8 Tf  [(Lord\\'s calling on my life to be a missionary. They are very much going to be apart of the planning and experience in )] TJ ET
+BT 40.016 157.018 Td /F3 9.8 Tf  [(YWAM.)] TJ ET
+endstream
+endobj
+29 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 731
+/Height 5
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 731 /BitsPerComponent 8>>
+/Mask  [ 255 255 255 255 255 255 ] 
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 49>>
+stream
+híÖ1 0Ã°uü9§0ÒCBàÓ“ä Tıv  €# p$ @Ÿ# ú#
+endstream
+endobj
+30 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 31 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 3629 >>
+stream
+
+0.000 0.000 0.000 rg
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+BT 37.016 668.538 Td /F3 9.8 Tf  [(5. Describe your long-term goals.)] TJ ET
+q
+37.016 660.907 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 662.407 cm /I15 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 563.538 Td /F3 9.8 Tf  [(6. Have you had any missions experience? If so, where and what type\(s\) of ministry were you involved in? )] TJ ET
+q
+37.016 555.907 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 557.407 cm /I15 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 458.538 Td /F3 9.8 Tf  [(7. Have you ever used tobacco, alcohol or drugs? If yes, for how long?)] TJ ET
+q
+37.016 450.907 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 452.407 cm /I15 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 353.538 Td /F3 9.8 Tf  [(8. Have you ever been convicted of a felony?)] TJ ET
+q
+37.016 345.907 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 347.407 cm /I15 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 248.538 Td /F3 9.8 Tf  [(9. Have you ever had / or are you currently dealing with an eating disorder?)] TJ ET
+q
+37.016 240.907 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 242.407 cm /I15 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 143.538 Td /F3 9.8 Tf  [(10. What areas of your character are you presently seeking God to further develop and improve? )] TJ ET
+q
+37.016 135.907 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 137.407 cm /I15 Do
+Q
+Q
+1.000 1.000 1.000 rg
+37.016 688.984 538.500 66.000 re f
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+37.391 689.359 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 742.713 Td /F3 9.8 Tf  [(I love my church. All the staff, leaders, student leaders and people who attend there are all great and very welcoming. In )] TJ ET
+BT 40.016 730.808 Td /F3 9.8 Tf  [(the past I have served in the Heroland ministry \(infant-6\) for 4 years. I now serve on the missions team, I help in the Junior )] TJ ET
+BT 40.016 718.903 Td /F3 9.8 Tf  [(high services as a leader and I am a Junior/senior Student Leader in my youth.)] TJ ET
+1.000 1.000 1.000 rg
+37.016 583.984 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 584.359 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 637.713 Td /F3 9.8 Tf  [(I want to travel as a missionary fulfilling God\\'s calling to spread His word and minister to those around me. I feel like He )] TJ ET
+BT 40.016 625.808 Td /F3 9.8 Tf  [(has prepared me growing up to counsel hurt hearts out there and I also feel His calling to speak to groups of people.)] TJ ET
+1.000 1.000 1.000 rg
+37.016 478.984 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 479.359 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 532.713 Td /F3 9.8 Tf  [(Yes. In my youth a few years ago we all helped at Bethesda on Wednesdays, providing a safe environment to play and )] TJ ET
+BT 40.016 520.808 Td /F3 9.8 Tf  [(learn about Jesus for the kids and then helping the elderly as they got there food by walking them to their car and )] TJ ET
+BT 40.016 508.903 Td /F3 9.8 Tf  [(unloading their groceries. My student council has also served in several different places in need in Amarillo.)] TJ ET
+1.000 1.000 1.000 rg
+37.016 373.984 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 374.359 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 427.713 Td /F3 9.8 Tf  [(no.)] TJ ET
+1.000 1.000 1.000 rg
+37.016 268.984 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 269.359 537.750 65.250 re S
+37.016 163.984 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 164.359 537.750 65.250 re S
+37.016 58.984 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 59.359 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 112.713 Td /F3 9.8 Tf  [(Communication and boundaries)] TJ ET
+endstream
+endobj
+32 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 33 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length 7378 >>
+stream
+
+0.000 0.000 0.000 rg
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+BT 37.016 739.038 Td /F3 9.8 Tf  [(11. How did you hear about YWAM Denver? Why do you desire to attend this program? )] TJ ET
+q
+37.016 731.407 548.400 5.250 re W n
+q
+548.400 0 0 3.750 37.016 732.907 cm /I15 Do
+Q
+Q
+0.000 0.459 0.788 rg
+BT 37.016 617.096 Td /F2 11.2 Tf  [(Medical History)] TJ ET
+q
+9.750 0 0 9.750 38.516 600.099 cm /I17 Do
+Q
+0.000 0.000 0.000 rg
+BT 50.516 600.325 Td /F3 9.8 Tf  [(Allergy)] TJ ET
+q
+9.750 0 0 9.750 206.216 600.099 cm /I19 Do
+Q
+BT 218.216 600.325 Td /F3 9.8 Tf  [(Surgery Appendectomy)] TJ ET
+q
+9.750 0 0 9.750 420.716 600.099 cm /I21 Do
+Q
+BT 432.716 600.325 Td /F3 9.8 Tf  [(Gall bladder problems)] TJ ET
+q
+9.750 0 0 9.750 38.516 583.694 cm /I23 Do
+Q
+BT 50.516 583.920 Td /F3 9.8 Tf  [(Allergy Penicillin)] TJ ET
+q
+9.750 0 0 9.750 206.216 583.694 cm /I25 Do
+Q
+BT 218.216 583.920 Td /F3 9.8 Tf  [(Surgery Tonsillectomy)] TJ ET
+q
+9.750 0 0 9.750 420.716 583.694 cm /I27 Do
+Q
+BT 432.716 583.920 Td /F3 9.8 Tf  [(Intestinal troubles)] TJ ET
+q
+9.750 0 0 9.750 38.516 567.289 cm /I29 Do
+Q
+BT 50.516 567.515 Td /F3 9.8 Tf  [(Allergy Sulfonamides)] TJ ET
+q
+9.750 0 0 9.750 206.216 567.289 cm /I31 Do
+Q
+BT 218.216 567.515 Td /F3 9.8 Tf  [(Surgery Hernia repair)] TJ ET
+q
+9.750 0 0 9.750 420.716 567.289 cm /I33 Do
+Q
+BT 432.716 567.515 Td /F3 9.8 Tf  [(Recurrent diarrhea)] TJ ET
+q
+9.750 0 0 9.750 38.516 550.885 cm /I35 Do
+Q
+BT 50.516 551.111 Td /F3 9.8 Tf  [(Allergy Serum)] TJ ET
+q
+9.750 0 0 9.750 206.216 550.885 cm /I37 Do
+Q
+BT 218.216 551.111 Td /F3 9.8 Tf  [(Surgery Broken bones)] TJ ET
+q
+9.750 0 0 9.750 420.716 550.885 cm /I39 Do
+Q
+BT 432.716 551.111 Td /F3 9.8 Tf  [(Shortness of breath)] TJ ET
+q
+9.750 0 0 9.750 38.516 534.480 cm /I41 Do
+Q
+BT 50.516 534.706 Td /F3 9.8 Tf  [(Allergy Other - specify below)] TJ ET
+q
+9.750 0 0 9.750 206.216 534.480 cm /I43 Do
+Q
+BT 218.216 534.706 Td /F3 9.8 Tf  [(Surgery Other-specify)] TJ ET
+q
+9.750 0 0 9.750 420.716 534.480 cm /I45 Do
+Q
+BT 432.716 534.706 Td /F3 9.8 Tf  [(Stomach/Duodenal Ulcer)] TJ ET
+q
+9.750 0 0 9.750 38.516 518.075 cm /I47 Do
+Q
+BT 50.516 518.301 Td /F3 9.8 Tf  [(Allergy Food - specify below)] TJ ET
+q
+9.750 0 0 9.750 206.216 518.075 cm /I49 Do
+Q
+BT 218.216 518.301 Td /F3 9.8 Tf  [(Dislocation of joints)] TJ ET
+q
+9.750 0 0 9.750 420.716 518.075 cm /I51 Do
+Q
+BT 432.716 518.301 Td /F3 9.8 Tf  [(Depression)] TJ ET
+q
+9.750 0 0 9.750 38.516 501.670 cm /I53 Do
+Q
+BT 50.516 501.896 Td /F3 9.8 Tf  [(Skin conditions)] TJ ET
+q
+9.750 0 0 9.750 206.216 501.670 cm /I55 Do
+Q
+BT 218.216 501.896 Td /F3 9.8 Tf  [(Rheumatism/Arthritis)] TJ ET
+q
+9.750 0 0 9.750 420.716 501.670 cm /I57 Do
+Q
+BT 432.716 501.896 Td /F3 9.8 Tf  [(Anxiety Disorder)] TJ ET
+q
+9.750 0 0 9.750 38.516 485.266 cm /I59 Do
+Q
+BT 50.516 485.492 Td /F3 9.8 Tf  [(Eye trouble)] TJ ET
+q
+9.750 0 0 9.750 206.216 485.266 cm /I61 Do
+Q
+BT 219.716 485.492 Td /F3 9.8 Tf  [(Paralysis)] TJ ET
+q
+9.750 0 0 9.750 420.716 485.266 cm /I63 Do
+Q
+BT 434.216 485.492 Td /F3 9.8 Tf  [(Other Mental/Nervous)] TJ ET
+q
+9.750 0 0 9.750 38.516 468.861 cm /I65 Do
+Q
+BT 52.016 469.087 Td /F3 9.8 Tf  [(Ear trouble)] TJ ET
+q
+9.750 0 0 9.750 206.216 468.861 cm /I67 Do
+Q
+BT 219.716 469.087 Td /F3 9.8 Tf  [(Back problems)] TJ ET
+q
+9.750 0 0 9.750 420.716 468.861 cm /I69 Do
+Q
+BT 434.216 469.087 Td /F3 9.8 Tf  [(Hepatitis)] TJ ET
+q
+9.750 0 0 9.750 38.516 452.456 cm /I71 Do
+Q
+BT 52.016 452.682 Td /F3 9.8 Tf  [(Recurrent headache)] TJ ET
+q
+9.750 0 0 9.750 206.216 452.456 cm /I73 Do
+Q
+BT 219.716 452.682 Td /F3 9.8 Tf  [(Head injury)] TJ ET
+q
+9.750 0 0 9.750 420.716 452.456 cm /I75 Do
+Q
+BT 434.216 452.682 Td /F3 9.8 Tf  [(Weakness)] TJ ET
+q
+9.750 0 0 9.750 38.516 436.051 cm /I77 Do
+Q
+BT 52.016 436.277 Td /F3 9.8 Tf  [(Fainting spells)] TJ ET
+q
+9.750 0 0 9.750 206.216 436.051 cm /I79 Do
+Q
+BT 219.716 436.277 Td /F3 9.8 Tf  [(Epilepsy)] TJ ET
+q
+9.750 0 0 9.750 420.716 436.051 cm /I81 Do
+Q
+BT 434.216 436.277 Td /F3 9.8 Tf  [(Jaundice)] TJ ET
+q
+9.750 0 0 9.750 38.516 419.647 cm /I83 Do
+Q
+BT 52.016 419.873 Td /F3 9.8 Tf  [(Insomnia)] TJ ET
+q
+9.750 0 0 9.750 206.216 419.647 cm /I85 Do
+Q
+BT 219.716 419.873 Td /F3 9.8 Tf  [(Anemia)] TJ ET
+BT 420.716 419.873 Td /F3 9.8 Tf  [(Females only:)] TJ ET
+q
+9.750 0 0 9.750 38.516 403.242 cm /I87 Do
+Q
+BT 52.016 403.468 Td /F3 9.8 Tf  [(Hay Fever, Asthma)] TJ ET
+q
+9.750 0 0 9.750 206.216 403.242 cm /I89 Do
+Q
+BT 219.716 403.468 Td /F3 9.8 Tf  [(Diabetes)] TJ ET
+q
+9.750 0 0 9.750 420.716 403.242 cm /I91 Do
+Q
+BT 434.216 403.468 Td /F3 9.8 Tf  [(Irregular periods)] TJ ET
+q
+9.750 0 0 9.750 38.516 386.837 cm /I93 Do
+Q
+BT 52.016 387.063 Td /F3 9.8 Tf  [(Heart trouble)] TJ ET
+q
+9.750 0 0 9.750 206.216 386.837 cm /I95 Do
+Q
+BT 219.716 387.063 Td /F3 9.8 Tf  [(Tumor: Cancer)] TJ ET
+q
+9.750 0 0 9.750 420.716 386.837 cm /I97 Do
+Q
+BT 434.216 387.063 Td /F3 9.8 Tf  [(Severe cramps)] TJ ET
+q
+9.750 0 0 9.750 38.516 370.432 cm /I99 Do
+Q
+BT 52.016 370.658 Td /F3 9.8 Tf  [(High blood pressure)] TJ ET
+q
+9.750 0 0 9.750 206.216 370.432 cm /I101 Do
+Q
+BT 219.716 370.658 Td /F3 9.8 Tf  [(Venereal Disease)] TJ ET
+q
+9.750 0 0 9.750 420.716 370.432 cm /I103 Do
+Q
+BT 434.216 370.658 Td /F3 9.8 Tf  [(Hysterectomy)] TJ ET
+q
+9.750 0 0 9.750 38.516 354.028 cm /I105 Do
+Q
+BT 52.016 354.254 Td /F3 9.8 Tf  [(Low blood pressure)] TJ ET
+q
+9.750 0 0 9.750 206.216 354.028 cm /I107 Do
+Q
+BT 219.716 354.254 Td /F3 9.8 Tf  [(Contagious Disease)] TJ ET
+q
+9.750 0 0 9.750 420.716 354.028 cm /I109 Do
+Q
+BT 434.216 354.254 Td /F3 9.8 Tf  [(I am pregnant)] TJ ET
+q
+9.750 0 0 9.750 38.516 337.623 cm /I111 Do
+Q
+BT 52.016 337.849 Td /F3 9.8 Tf  [(Surgery)] TJ ET
+q
+9.750 0 0 9.750 206.216 337.623 cm /I113 Do
+Q
+BT 219.716 337.849 Td /F3 9.8 Tf  [(Kidney Disease)] TJ ET
+BT 420.716 337.849 Td /F3 9.8 Tf  [( )] TJ ET
+BT 37.016 319.563 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 319.563 Td /F1 12.0 Tf  [( )] TJ ET
+BT 589.916 319.563 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 302.688 Td /F3 9.8 Tf  [(Other/Explain )] TJ ET
+q
+37.016 295.057 622.900 5.250 re W n
+q
+622.900 0 0 3.750 37.016 296.557 cm /I114 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 208.652 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 185.355 Td /F3 9.8 Tf  [(Do you have any special needs?)] TJ ET
+q
+37.016 177.724 622.900 5.250 re W n
+q
+622.900 0 0 3.750 37.016 179.224 cm /I114 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 84.896 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 68.021 Td /F3 9.8 Tf  [(Are you under doctor's care for any conditions? if yes, Please specify.)] TJ ET
+q
+37.016 60.391 622.900 5.250 re W n
+q
+622.900 0 0 3.750 37.016 61.891 cm /I114 Do
+Q
+Q
+1.000 1.000 1.000 rg
+37.016 654.484 538.500 66.000 re f
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+37.391 654.859 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 708.213 Td /F3 9.8 Tf  [(I researched a lot of YWAM stuff around the world and finally cam upon something I was interested in and felt like it has to )] TJ ET
+BT 40.016 696.308 Td /F3 9.8 Tf  [(do a lot with what God is calling me to do and what I want to do myself.)] TJ ET
+0.000 0.459 0.788 rg
+BT 37.016 636.065 Td /F2 14.2 Tf  [(HEALTH INFORMATION)] TJ ET
+1.000 1.000 1.000 rg
+37.016 224.557 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 224.932 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 278.286 Td /F3 9.8 Tf  [(N/A)] TJ ET
+1.000 1.000 1.000 rg
+37.016 100.801 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 101.176 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 154.530 Td /F3 9.8 Tf  [(no)] TJ ET
+endstream
+endobj
+34 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+35 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 34 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+36 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+37 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 36 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+38 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 43>>
+stream
+™cøş¥° àß øşÿ?”ƒïPÆ°ˆ÷ıTè?Ln`x ;¦Z
+endstream
+endobj
+39 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 38 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+40 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+41 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 40 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+42 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 64>>
+stream
+™UM[
+ 0òşİb~¶QÖZ äÍó¸¶ÁYìÔRG9&ö¢%áõ†’¯åÛöZ€Ïèi—§X
+endstream
+endobj
+43 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 42 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+44 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 64>>
+stream
+™UM[
+ 0òşİb~¶QÖZ äÍó¸¶ÁYìÔRG9&ö¢%áõ†’¯åÛöZ€Ïèi—§X
+endstream
+endobj
+45 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 44 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+46 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 64>>
+stream
+™UM[
+ 0òşİb~¶QÖZ äÍó¸¶ÁYìÔRG9&ö¢%áõ†’¯åÛöZ€Ïèi—§X
+endstream
+endobj
+47 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 46 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+48 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 64>>
+stream
+™UM[
+ 0òşİb~¶QÖZ äÍó¸¶ÁYìÔRG9&ö¢%áõ†’¯åÛöZ€Ïèi—§X
+endstream
+endobj
+49 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 48 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+50 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 60>>
+stream
+™u9 0ùÿ{±$jĞØ„FY<àæ9³€·O™\$ LÚá»2 +©lîáºéÉ¯;ˆ¨§¬
+endstream
+endobj
+51 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 50 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+52 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 69>>
+stream
+™MŒA 1y²}ûšp¤k‹¦ÆD…0%1cÅßˆOBİT-TÍSÄé³ r½fÑMC“-àqœ2Şşsm7¢¢”
+endstream
+endobj
+53 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 52 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+54 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 69>>
+stream
+™MŒA 1y²}ûšp¤k‹¦ÆD…0%1cÅßˆOBİT-TÍSÄé³ r½fÑMC“-àqœ2Şşsm7¢¢”
+endstream
+endobj
+55 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 54 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+56 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 69>>
+stream
+™MŒA 1y²}ûšp¤k‹¦ÆD…0%1cÅßˆOBİT-TÍSÄé³ r½fÑMC“-àqœ2Şşsm7¢¢”
+endstream
+endobj
+57 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 56 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+58 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 69>>
+stream
+™MŒA 1y²}ûšp¤k‹¦ÆD…0%1cÅßˆOBİT-TÍSÄé³ r½fÑMC“-àqœ2Şşsm7¢¢”
+endstream
+endobj
+59 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 58 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+60 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 69>>
+stream
+™MŒA 1y²}ûšp¤k‹¦ÆD…0%1cÅßˆOBİT-TÍSÄé³ r½fÑMC“-àqœ2Şşsm7¢¢”
+endstream
+endobj
+61 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 60 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+62 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+63 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 62 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+64 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+65 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 64 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+66 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+67 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 66 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+68 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+69 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 68 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 332>>
+stream
+(‘cìëïg °000¤¥¦b‘`aaddüû÷ï¿ÿfÍÍİµÿ(²"iIñ+·?Üºÿ:5ÒRRLjÈÊÈ@ŒŒŒŠrÒ}óÖ¼ığÕéÁ)q!&4ëE„º÷öÃWa=‰ÿş¡¨ãââàä`ä[¿ó3S„¯á—¯_ ²Puâb"_¾19óXBLèÄ¹‡¯ß~••´1UúõóÂ¿’â"æŸ¼y÷•šÔÚí—˜˜ƒ=şıûÇÎÁbŞû÷
+’ì«º¶<yñAL˜×ÑJõß¿¬¬,(ê~şüÉÃÍîl£ÆÈÈÈÈÈèï¦ËÈğŸ‰‰‰•…Å^f¦ï^‡xê12ügaav²RıüåËÿÿ™™QÕiij@%7Áşÿÿÿÿşå`gG·Y³gcÆ  ‘ÒjÔ
+endstream
+endobj
+70 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+71 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 70 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+72 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 72>>
+stream
+™MÁÀ0=2],ÓYåéP7Døè’ª¤tãŠA”Äl¨ĞTÑÍû¸ZÉ<q½Ş«¬õOìk<ŒG«Ïx×´ ¾
+endstream
+endobj
+73 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 72 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+74 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 80>>
+stream
+™cøşå?|ÿ0˜f@’ùÿI,‡¤”á?²RdCÀr¨)ß â_ş#Èºu…½µ/©I	± •APÛÿÿÃC
+endstream
+endobj
+75 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 74 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+76 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 80>>
+stream
+™cøşå?|ÿ0˜f@’ùÿI,‡¤”á?²RdCÀr¨)ß â_ş#Èºu…½µ/©I	± •APÛÿÿÃC
+endstream
+endobj
+77 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 76 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+78 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 80>>
+stream
+™cøşå?|ÿ0˜f@’ùÿI,‡¤”á?²RdCÀr¨)ß â_ş#Èºu…½µ/©I	± •APÛÿÿÃC
+endstream
+endobj
+79 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 78 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+80 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+81 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 80 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+82 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+83 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 82 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+84 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+85 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 84 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+86 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+87 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 86 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+88 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+89 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 88 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+90 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+91 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 90 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+92 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+93 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 92 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+94 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+95 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 94 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+96 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+97 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 96 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+98 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+99 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 98 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+100 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+101 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 100 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+102 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+103 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 102 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+104 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+105 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 104 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+106 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+107 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 106 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+108 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+109 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 108 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+110 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+111 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 110 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+112 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+113 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 112 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+114 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+115 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 114 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+116 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+117 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 116 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+118 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 157>>
+stream
+™cøşåÿÿÿ_€førÂøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»kÇÖMÖ2¬Z±tÑ‚¹³fL4¡·‹¡£µ©¡¶ª¢´¨ 7+ƒ!5)!6*"4(À×ËÃ•ÁÉÁÖÊÂÔÈ@WKCU‰AAVJBTH€—‹ƒ•‰á?Øz…ÿ!ÿ‡ºäˆ„¸,Ïğ  ñsq
+endstream
+endobj
+119 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 118 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+120 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 69>>
+stream
+™MÉ  Ã¼¿ÄLÀtˆ>É§‡£´D×R(Åm²bD‘dfEnÅC’ı²¦qû	¾ó]B­Tª4+“¤8
+endstream
+endobj
+121 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 120 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+122 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 63>>
+stream
+™UY
+  çÈvwÁOÓ4Ağ-Œ¨ç˜ÈBJÚY,0¸vj*ÑT]U|@"k*>«4¾(ÿ¿gà³ºö¥N
+endstream
+endobj
+123 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 122 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+124 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 63>>
+stream
+™UY
+  çÈvwÁO‹rK|#¦şÆDRê,Ç5xvh2ÑP]U|@nÖT|Vi|Rşeà³ºY¥F
+endstream
+endobj
+125 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 124 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+126 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 63>>
+stream
+™UY
+  çÈvwÁO‹rK|#¦şÆDRê,Ç5xvh2ÑP]U|@nÖT|Vi|Rşeà³ºY¥F
+endstream
+endobj
+127 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 126 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+128 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 63>>
+stream
+™UY
+  çÈvwÁO‹rK|#¦şÆDRê,Ç5xvh2ÑP]U|@nÖT|Vi|Rşeà³ºY¥F
+endstream
+endobj
+129 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 128 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+130 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 63>>
+stream
+™UY
+  çÈvwÁO‹rK|#¦şÆDRê,Ç5xvh2ÑP]U|@nÖT|Vi|Rşeà³ºY¥F
+endstream
+endobj
+131 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 130 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+132 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 831
+/Height 5
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 831 /BitsPerComponent 8>>
+/Mask  [ 255 255 255 255 255 255 ] 
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 54>>
+stream
+híÖ± 0Ã°¶ÿÿìŞ)0@^ Q7É  ÄÛ  `À½ 4qo  MÜ @“¶¶
+endstream
+endobj
+133 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 134 0 R
+>>
+endobj
+134 0 obj
+<<
+/Length 7219 >>
+stream
+
+0.000 0.000 0.000 rg
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+BT 37.016 673.079 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 656.204 Td /F3 9.8 Tf  [(Do you have any physical handicaps or health conditions which require special attention? )] TJ ET
+q
+37.016 648.574 622.900 5.250 re W n
+q
+622.900 0 0 3.750 37.016 650.074 cm /I114 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 562.169 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 545.294 Td /F3 9.8 Tf  [(Do you have a history of receiving counseling or psychiatric treatment?)] TJ ET
+BT 37.016 456.508 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 439.633 Td /F3 9.8 Tf  [(Height)] TJ ET
+BT 206.216 439.633 Td /F3 9.8 Tf  [(Weight)] TJ ET
+BT 420.716 439.633 Td /F3 9.8 Tf  [(Blood type)] TJ ET
+BT 37.016 391.347 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 391.347 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 391.347 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 374.472 Td /F3 9.8 Tf  [(Would you rate your health condition as: )] TJ ET
+q
+37.016 366.841 622.900 5.250 re W n
+q
+622.900 0 0 3.750 37.016 368.341 cm /I114 Do
+Q
+Q
+q
+9.000 0 0 9.000 37.016 353.341 cm /I116 Do
+Q
+0.000 0.000 0.000 rg
+BT 49.766 352.817 Td /F3 9.8 Tf  [(Excellent)] TJ ET
+q
+9.000 0 0 9.000 206.216 353.341 cm /I118 Do
+Q
+BT 218.966 352.817 Td /F3 9.8 Tf  [(Good/Normal)] TJ ET
+q
+9.000 0 0 9.000 420.716 353.341 cm /I120 Do
+Q
+BT 433.466 352.817 Td /F3 9.8 Tf  [(Poor)] TJ ET
+BT 37.016 334.532 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 334.532 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 334.532 Td /F1 12.0 Tf  [( )] TJ ET
+0.000 0.459 0.788 rg
+BT 37.016 316.192 Td /F2 11.2 Tf  [(Family History )] TJ ET
+q
+37.016 308.194 622.900 5.250 re W n
+q
+622.900 0 0 3.750 37.016 309.694 cm /I114 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 294.170 Td /F3 9.8 Tf  [(Have any of your relatives ever had )] TJ ET
+BT 37.016 282.266 Td /F3 9.8 Tf  [(any of the following?)] TJ ET
+q
+37.016 274.635 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 276.135 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 38.516 260.385 cm /I123 Do
+Q
+0.000 0.000 0.000 rg
+BT 52.016 260.611 Td /F3 9.8 Tf  [(Tuberculosis)] TJ ET
+q
+37.016 252.980 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 254.480 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 206.216 260.385 cm /I125 Do
+Q
+0.000 0.000 0.000 rg
+BT 219.716 260.611 Td /F3 9.8 Tf  [(Arthritis)] TJ ET
+q
+206.216 252.980 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 254.480 cm /I126 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 420.716 257.986 Td /F3 9.8 Tf  [( )] TJ ET
+q
+9.750 0 0 9.750 38.516 238.730 cm /I128 Do
+Q
+BT 52.016 238.956 Td /F3 9.8 Tf  [(Diabetes)] TJ ET
+q
+37.016 231.325 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 232.825 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 206.216 238.730 cm /I130 Do
+Q
+0.000 0.000 0.000 rg
+BT 219.716 238.956 Td /F3 9.8 Tf  [(Stomach problems)] TJ ET
+q
+206.216 231.325 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 232.825 cm /I126 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 420.716 236.331 Td /F3 9.8 Tf  [( )] TJ ET
+q
+9.750 0 0 9.750 38.516 217.075 cm /I132 Do
+Q
+BT 52.016 217.301 Td /F3 9.8 Tf  [(Kidney disease)] TJ ET
+q
+37.016 209.671 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 211.171 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 206.216 217.075 cm /I134 Do
+Q
+0.000 0.000 0.000 rg
+BT 219.716 217.301 Td /F3 9.8 Tf  [(Asthma, hay fever)] TJ ET
+q
+206.216 209.671 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 211.171 cm /I126 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 420.716 214.676 Td /F3 9.8 Tf  [( )] TJ ET
+q
+9.750 0 0 9.750 38.516 195.421 cm /I136 Do
+Q
+BT 52.016 195.647 Td /F3 9.8 Tf  [(Heart disease)] TJ ET
+q
+37.016 188.016 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 189.516 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 206.216 195.421 cm /I138 Do
+Q
+0.000 0.000 0.000 rg
+BT 219.716 195.647 Td /F3 9.8 Tf  [(Convulsions, epilepsy)] TJ ET
+q
+206.216 188.016 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 189.516 cm /I126 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 420.716 193.022 Td /F3 9.8 Tf  [( )] TJ ET
+q
+9.750 0 0 9.750 38.516 173.766 cm /I140 Do
+Q
+BT 52.016 173.992 Td /F3 9.8 Tf  [(Hypertension)] TJ ET
+q
+37.016 166.361 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 167.861 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 206.216 173.766 cm /I142 Do
+Q
+0.000 0.000 0.000 rg
+BT 219.716 173.992 Td /F3 9.8 Tf  [(Cancer)] TJ ET
+q
+206.216 166.361 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 167.861 cm /I126 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 420.716 171.367 Td /F3 9.8 Tf  [( )] TJ ET
+BT 37.016 150.456 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 150.456 Td /F1 12.0 Tf  [( )] TJ ET
+BT 420.716 150.456 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 133.581 Td /F3 9.8 Tf  [(Have you ever had any of the following COMMUNICABLE DISEASES? )] TJ ET
+q
+37.016 123.700 622.900 7.500 re W n
+q
+622.900 0 0 3.750 37.016 127.450 cm /I114 Do
+Q
+Q
+q
+9.750 0 0 9.750 38.516 109.450 cm /I144 Do
+Q
+0.000 0.000 0.000 rg
+BT 52.016 109.676 Td /F3 9.8 Tf  [(Chickenpox)] TJ ET
+q
+37.016 102.046 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 103.546 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 206.216 109.450 cm /I146 Do
+Q
+0.000 0.000 0.000 rg
+BT 219.716 109.676 Td /F3 9.8 Tf  [(Pertussis)] TJ ET
+q
+206.216 102.046 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 103.546 cm /I126 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 420.716 107.051 Td /F3 9.8 Tf  [( )] TJ ET
+q
+9.750 0 0 9.750 38.516 87.796 cm /I148 Do
+Q
+BT 52.016 88.022 Td /F3 9.8 Tf  [(Measles \(Rubella\))] TJ ET
+q
+37.016 80.391 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 81.891 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 206.216 87.796 cm /I150 Do
+Q
+0.000 0.000 0.000 rg
+BT 219.716 88.022 Td /F3 9.8 Tf  [(Scarlet Fever)] TJ ET
+q
+206.216 80.391 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 81.891 cm /I126 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 420.716 85.397 Td /F3 9.8 Tf  [( )] TJ ET
+q
+9.750 0 0 9.750 38.516 66.141 cm /I152 Do
+Q
+BT 52.016 66.367 Td /F3 9.8 Tf  [(Measles \(Rubeola\))] TJ ET
+q
+37.016 58.736 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 60.236 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 206.216 66.141 cm /I154 Do
+Q
+0.000 0.000 0.000 rg
+BT 219.716 66.367 Td /F3 9.8 Tf  [(Tuberculosis)] TJ ET
+q
+206.216 58.736 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 60.236 cm /I126 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 420.716 63.742 Td /F3 9.8 Tf  [( )] TJ ET
+1.000 1.000 1.000 rg
+37.016 688.984 538.500 66.000 re f
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+37.391 689.359 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 742.713 Td /F3 9.8 Tf  [(no)] TJ ET
+1.000 1.000 1.000 rg
+37.016 578.074 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 578.449 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 631.802 Td /F3 9.8 Tf  [(no)] TJ ET
+1.000 1.000 1.000 rg
+37.016 472.413 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 472.788 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 40.016 526.141 Td /F3 9.8 Tf  [(Christian Counseling-yes)] TJ ET
+1.000 1.000 1.000 rg
+34.016 409.502 81.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+34.391 409.877 80.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 37.016 418.231 Td /F3 9.8 Tf  [(5.1)] TJ ET
+1.000 1.000 1.000 rg
+207.074 409.502 81.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+207.449 409.877 80.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 210.074 418.231 Td /F3 9.8 Tf  [(185)] TJ ET
+1.000 1.000 1.000 rg
+421.608 409.502 81.000 21.000 re f
+0.75 w 0 J [  ] 0 d
+421.983 409.877 80.250 20.250 re S
+0.000 0.000 0.000 rg
+BT 424.608 418.231 Td /F3 9.8 Tf  [(not sure)] TJ ET
+endstream
+endobj
+135 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+136 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 135 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 422>>
+stream
+•cd€“§Nİ»wïÕ«WbbbJJJæff)FµpÑ"			%EEqqq†—/_Ş»ÿÅ‹ñqqPE.TVRÒÒÒ>{éúé+·ÌõÔu5¯]½z÷Ş½„øxÆ“§N}øğÁÀÀpÁÚíó6ìS”‘x÷îİ«÷Ÿò¢|bƒ<Î;'  Àìèè¨«£sıöÃæY«rr3¢ã^«(_ØìÌÅë®æ:Ò’’—/_fzóæ˜˜Ø‘óWxØ™ş+ËO{ü`ÿƒ¿Ì^Ù¿¿~<vá¦˜˜Ø›7oX gefyñâÅ¤]ÿñqÿøÍğı×.v¶¿ÿ2222‰ˆˆ¼~ıÚÎT—•[àí†éïŸ}ûüêÛ¿ÓÙyœ,Ş½{',,Ì\VZúâåK}mQ>Î“g/3]ÙÍ~ó7Ë„ª}•ËW®HJH ‚@WWïáÓgWo?bfa6ÖV¼pá4 nZ°p¡”””¢‚‚¤¤$Ã‹/îİ¿ÿìÙ³„øxDˆ300œ8qâşƒÏŸ?g``WVR²°°€H Ä™±
+endstream
+endobj
+137 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+138 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 137 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 384>>
+stream
+•EÍnÚ@E¿qÿŒm µU%«ª”)Ù$³åEâ<Zœ§H%Q¥2*u0`ˆ ‰ƒ1Y8Qïæ.îY\ŸéõûBˆÙl ”RÆØåÅE1¡¢ÂÛÛz½ÎÚmÏó `:Š(Šã8¸ºú€nÂĞgìèèø×ïh±z ç°òİoİßİ…¸Ôë÷—ËåùÙyoğ“bš&B({KÓ4==ş1ªÕêA§Ó9=9ùówªà²mãR‰èZ¥l©o6kZ«F#%IJébµª”m]Ã¶©W,Ã"FÍı’e;Ji’$¥â¸†114CSuMUUUQĞ~¦I²l‡R\×Ïç®s˜gÛ‚PUŒ1Î÷¹mY‹Å?ÇqŸ±±ß¾6___Ò·TQ l·Ù.ÛBÆBøŒ)œs)åÃÃ½ÏBh½ŞlŸó<7}8J)9ç2oÂ°Ùl¶[­F£ q‹(’R^Áã Ğív£ÇÇÉd çùŒqÎ‹éñšq
+endstream
+endobj
+139 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+140 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 139 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 384>>
+stream
+•EÍnÚ@E¿qÿŒm µU%«ª”)Ù$³åEâ<Zœ§H%Q¥2*u0`ˆ ‰ƒ1Y8Qïæ.îY\ŸéõûBˆÙl ”RÆØåÅE1¡¢ÂÛÛz½ÎÚmÏó `:Š(Šã8¸ºú€nÂĞgìèèø×ïh±z ç°òİoİßİ…¸Ôë÷—ËåùÙyoğ“bš&B({KÓ4==ş1ªÕêA§Ó9=9ùówªà²mãR‰èZ¥l©o6kZ«F#%IJébµª”m]Ã¶©W,Ã"FÍı’e;Ji’$¥â¸†114CSuMUUUQĞ~¦I²l‡R\×Ïç®s˜gÛ‚PUŒ1Î÷¹mY‹Å?ÇqŸ±±ß¾6___Ò·TQ l·Ù.ÛBÆBøŒ)œs)åÃÃ½ÏBh½ŞlŸó<7}8J)9ç2oÂ°Ùl¶[­F£ q‹(’R^Áã Ğív£ÇÇÉd çùŒqÎ‹éñšq
+endstream
+endobj
+141 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 220
+/Height 5
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 220 /BitsPerComponent 8>>
+/Mask  [ 255 255 255 255 255 255 ] 
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 43>>
+stream
+H‰íÒ1 0Ã°mü9g	4‡„À‡o’MŞv L¦¤)©cJê|İû
+endstream
+endobj
+142 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 46>>
+stream
+™cøş…á?0€ÁÿÿpŞ8ÌBğşSÊc@â¡Ú	çY_0Lˆ| s5’=
+endstream
+endobj
+143 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 142 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+144 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 46>>
+stream
+™cøş…á?0€ÁÿÿpŞ8ÌBğşSÊc@â¡Ú	çY_0Lˆ| s5’=
+endstream
+endobj
+145 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 144 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 332>>
+stream
+(‘cìëïg °000¤¥¦b‘`aaddüû÷ï¿ÿfÍÍİµÿ(²"iIñ+·?Üºÿ:5ÒRRLjÈÊÈ@ŒŒŒŠrÒ}óÖ¼ığÕéÁ)q!&4ëE„º÷öÃWa=‰ÿş¡¨ãââàä`ä[¿ó3S„¯á—¯_ ²Puâb"_¾19óXBLèÄ¹‡¯ß~••´1UúõóÂ¿’â"æŸ¼y÷•šÔÚí—˜˜ƒ=şıûÇÎÁbŞû÷
+’ì«º¶<yñAL˜×ÑJõß¿¬¬,(ê~şüÉÃÍîl£ÆÈÈÈÈÈèï¦ËÈğŸ‰‰‰•…Å^f¦ï^‡xê12ügaav²RıüåËÿÿ™™QÕiij@%7Áşÿÿÿÿşå`gG·Y³gcÆ  ‘ÒjÔ
+endstream
+endobj
+146 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 280
+/Height 5
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 280 /BitsPerComponent 8>>
+/Mask  [ 255 255 255 255 255 255 ] 
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 45>>
+stream
+X…íÓÁ	  Aµÿcd¦‚ıìN²€7g: ~`$(0	
+.u,
+endstream
+endobj
+147 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 22>>
+stream
+™cøò	0ü§ïÑ*qò Ğp¨B
+endstream
+endobj
+148 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 147 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 332>>
+stream
+(‘cìëïg °000¤¥¦b‘`aaddüû÷ï¿ÿfÍÍİµÿ(²"iIñ+·?Üºÿ:5ÒRRLjÈÊÈ@ŒŒŒŠrÒ}óÖ¼ığÕéÁ)q!&4ëE„º÷öÃWa=‰ÿş¡¨ãââàä`ä[¿ó3S„¯á—¯_ ²Puâb"_¾19óXBLèÄ¹‡¯ß~••´1UúõóÂ¿’â"æŸ¼y÷•šÔÚí—˜˜ƒ=şıûÇÎÁbŞû÷
+’ì«º¶<yñAL˜×ÑJõß¿¬¬,(ê~şüÉÃÍîl£ÆÈÈÈÈÈèï¦ËÈğŸ‰‰‰•…Å^f¦ï^‡xê12ügaav²RıüåËÿÿ™™QÕiij@%7Áşÿÿÿÿşå`gG·Y³gcÆ  ‘ÒjÔ
+endstream
+endobj
+149 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 159>>
+stream
+™cøşå?Ãÿÿÿ¿üëû:0óˆ‘ùtìÓ¯ŸÿÿA|ùñõÃ‡·¯^<}ôàî­W/]`8{êÄÑCöîÚ±uÓ†µ«V,]´`î¬S'Mèíbèhmj¨­ª(-*ÈÍÊ`HMJˆŠ
+ğõòpepr°µ²052ĞÕÒPUbP•’àåâ`eb` Zôş# -ró
+endstream
+endobj
+150 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 149 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+151 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 159>>
+stream
+™cøşå?Ãÿÿÿ¿üëû:0óˆ‘ùtìÓ¯ŸÿÿA|ùñõÃ‡·¯^<}ôàî­W/]`8{êÄÑCöîÚ±uÓ†µ«V,]´`î¬S'Mèíbèhmj¨­ª(-*ÈÍÊ`HMJˆŠ
+ğõòpepr°µ²052ĞÕÒPUbP•’àåâ`eb` Zôş# -ró
+endstream
+endobj
+152 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 151 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+153 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 129>>
+stream
+™cøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»‹aÇÖMÖ®Z±tÑ‚¹³f0L4¡·«£µ©¡¶ª¢”¡¨ 7+#5)!6*"4ˆ!À×ËÃÕÉÁÖÊÂÔÈ€AWKCUIAVJBTH€—‹ƒ•‰áÿ÷/ÿA€á?2 — wÍwù
+endstream
+endobj
+154 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 153 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+155 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+156 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 155 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+157 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 137>>
+stream
+™cøşå?0üÿƒ÷ıÃ¯Ÿ>¼}õâé£woİ`¸zéÂÙS':°w×­›6¬]µbé¢sgÍ˜:‰aBoWGkSCmUEiQCnVFjRBlTDhP€/ƒ—‡«“ƒ­•…©‘®ƒ†ª’‚¬”„¨ /+Ğ¢ÿ_¸åÿ ğ]wÛ
+endstream
+endobj
+158 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 157 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+159 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+160 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 159 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+161 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+162 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 161 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 332>>
+stream
+(‘cìëïg °000¤¥¦b‘`aaddüû÷ï¿ÿfÍÍİµÿ(²"iIñ+·?Üºÿ:5ÒRRLjÈÊÈ@ŒŒŒŠrÒ}óÖ¼ığÕéÁ)q!&4ëE„º÷öÃWa=‰ÿş¡¨ãââàä`ä[¿ó3S„¯á—¯_ ²Puâb"_¾19óXBLèÄ¹‡¯ß~••´1UúõóÂ¿’â"æŸ¼y÷•šÔÚí—˜˜ƒ=şıûÇÎÁbŞû÷
+’ì«º¶<yñAL˜×ÑJõß¿¬¬,(ê~şüÉÃÍîl£ÆÈÈÈÈÈèï¦ËÈğŸ‰‰‰•…Å^f¦ï^‡xê12ügaav²RıüåËÿÿ™™QÕiij@%7Áşÿÿÿÿşå`gG·Y³gcÆ  ‘ÒjÔ
+endstream
+endobj
+163 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 129>>
+stream
+™cøşåÇ×OŞ¾zñôÑƒ»·n\½táì©GØ»‹aÇÖMÖ®Z±tÑ‚¹³f0L4¡·«£µ©¡¶ª¢”¡¨ 7+#5)!6*"4ˆ!À×ËÃÕÉÁÖÊÂÔÈ€AWKCUIAVJBTH€—‹ƒ•‰áÿ÷/ÿA€á?2 — wÍwù
+endstream
+endobj
+164 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 163 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+165 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+166 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 165 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+167 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+168 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 167 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+169 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+170 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 169 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+171 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+172 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 171 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+173 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+174 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 173 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+175 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 176 0 R
+>>
+endobj
+176 0 obj
+<<
+/Length 9310 >>
+stream
+
+0.000 0.000 0.000 rg
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+q
+9.750 0 0 9.750 38.516 745.234 cm /I156 Do
+Q
+BT 52.016 745.460 Td /F3 9.8 Tf  [(Mumps)] TJ ET
+q
+37.016 735.580 164.700 7.500 re W n
+q
+164.700 0 0 3.750 37.016 739.330 cm /I121 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 206.216 745.460 Td /F3 9.8 Tf  [( )] TJ ET
+q
+206.216 735.580 210.000 7.500 re W n
+q
+210.000 0 0 3.750 206.216 739.330 cm /I126 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 420.716 745.460 Td /F3 9.8 Tf  [(  )] TJ ET
+q
+420.716 735.580 164.700 7.500 re W n
+q
+164.700 0 0 3.750 420.716 739.330 cm /I121 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 721.556 Td /F3 9.8 Tf  [(Other/Explain )] TJ ET
+q
+37.016 713.925 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 715.425 cm /I121 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 629.401 Td /F3 9.8 Tf  [( )] TJ ET
+BT 206.216 629.401 Td /F3 9.8 Tf  [( )] TJ ET
+BT 420.716 629.401 Td /F3 9.8 Tf  [( )] TJ ET
+0.000 0.459 0.788 rg
+BT 37.016 611.531 Td /F2 11.2 Tf  [(Vaccination Record)] TJ ET
+q
+37.016 603.534 622.900 5.250 re W n
+q
+622.900 0 0 3.750 37.016 605.034 cm /I114 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 589.510 Td /F3 9.8 Tf  [(We would like to know if you have had the following vaccinations.)] TJ ET
+BT 37.016 571.640 Td /F3 9.8 Tf  [(The vaccinations in Section I. are )] TJ ET
+0.000 0.459 0.788 rg
+BT 183.334 571.640 Td /F2 11.2 Tf  [(mandatory)] TJ ET
+0.000 0.000 0.000 rg
+BT 240.844 571.640 Td /F3 9.8 Tf  [( prior to entering your school program. )] TJ ET
+BT 37.016 559.369 Td /F3 9.8 Tf  [(Make sure that the vaccinations are up-to-date.)] TJ ET
+BT 37.016 541.083 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 524.208 Td /F3 9.8 Tf  [(I. Mandatory Vaccinations )] TJ ET
+q
+37.016 516.577 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 518.077 cm /I121 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 206.216 524.208 Td /F3 9.8 Tf  [(Month of last shot )] TJ ET
+q
+206.216 516.577 379.200 5.250 re W n
+q
+379.200 0 0 3.750 206.216 518.077 cm /I157 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 589.916 524.208 Td /F3 9.8 Tf  [(  )] TJ ET
+q
+589.916 516.577 70.000 5.250 re W n
+q
+70.000 0 0 3.750 589.916 518.077 cm /I158 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 498.006 Td /F3 9.8 Tf  [(Tetanus/Diphtheria)] TJ ET
+q
+9.750 0 0 9.750 514.916 497.780 cm /I160 Do
+Q
+BT 526.166 498.006 Td /F3 9.8 Tf  [(I am not sure)] TJ ET
+BT 37.016 472.506 Td /F3 9.8 Tf  [(MMR \(Measles, Mumps, Rubella\) )] TJ ET
+q
+37.016 464.875 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 466.375 cm /I121 Do
+Q
+Q
+q
+206.216 460.327 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 461.827 cm /I126 Do
+Q
+Q
+q
+420.716 460.327 164.700 5.250 re W n
+q
+164.700 0 0 3.750 420.716 461.827 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 514.916 472.280 cm /I162 Do
+Q
+0.000 0.000 0.000 rg
+BT 526.166 472.506 Td /F3 9.8 Tf  [(I am not sure)] TJ ET
+q
+589.916 464.875 70.000 5.250 re W n
+q
+70.000 0 0 3.750 589.916 466.375 cm /I158 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 441.756 Td /F3 9.8 Tf  [(Hepatitis A \(Series of 2\) )] TJ ET
+q
+37.016 434.125 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 435.625 cm /I121 Do
+Q
+Q
+q
+206.216 429.577 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 431.077 cm /I126 Do
+Q
+Q
+q
+420.716 429.577 164.700 5.250 re W n
+q
+164.700 0 0 3.750 420.716 431.077 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 514.916 441.530 cm /I164 Do
+Q
+0.000 0.000 0.000 rg
+BT 526.166 441.756 Td /F3 9.8 Tf  [(I am not sure)] TJ ET
+q
+589.916 434.125 70.000 5.250 re W n
+q
+70.000 0 0 3.750 589.916 435.625 cm /I158 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 413.672 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 413.672 Td /F1 12.0 Tf  [( )] TJ ET
+BT 589.916 413.672 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 396.797 Td /F3 9.8 Tf  [(Mandatory Vaccinations or Comments )] TJ ET
+q
+37.016 389.167 622.900 5.250 re W n
+q
+622.900 0 0 3.750 37.016 390.667 cm /I114 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 302.762 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 302.762 Td /F1 12.0 Tf  [( )] TJ ET
+BT 589.916 302.762 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 285.887 Td /F3 9.8 Tf  [(The following vaccinations are not essential for all outreaches, but beneficial for certain ones. )] TJ ET
+BT 37.016 273.982 Td /F3 9.8 Tf  [(It is helpful for us to have information regarding your vaccination history.)] TJ ET
+BT 37.016 255.696 Td /F1 12.0 Tf  [( )] TJ ET
+BT 206.216 255.696 Td /F1 12.0 Tf  [( )] TJ ET
+BT 589.916 255.696 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 238.821 Td /F3 9.8 Tf  [(II. Other Vaccinations )] TJ ET
+q
+37.016 231.190 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 232.690 cm /I121 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 206.216 238.821 Td /F3 9.8 Tf  [(Month of last shot )] TJ ET
+q
+206.216 231.190 379.200 5.250 re W n
+q
+379.200 0 0 3.750 206.216 232.690 cm /I157 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 589.916 238.821 Td /F3 9.8 Tf  [(  )] TJ ET
+q
+589.916 231.190 70.000 5.250 re W n
+q
+70.000 0 0 3.750 589.916 232.690 cm /I158 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 212.619 Td /F3 9.8 Tf  [(Polio )] TJ ET
+q
+37.016 204.988 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 206.488 cm /I121 Do
+Q
+Q
+q
+206.216 200.440 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 201.940 cm /I126 Do
+Q
+Q
+q
+420.716 200.440 164.700 5.250 re W n
+q
+164.700 0 0 3.750 420.716 201.940 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 514.916 212.393 cm /I166 Do
+Q
+0.000 0.000 0.000 rg
+BT 526.166 212.619 Td /F3 9.8 Tf  [(I am not sure)] TJ ET
+q
+589.916 204.988 70.000 5.250 re W n
+q
+70.000 0 0 3.750 589.916 206.488 cm /I158 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 181.869 Td /F3 9.8 Tf  [(Hepatitis B \(Series of 3 shots\) )] TJ ET
+q
+37.016 174.238 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 175.738 cm /I121 Do
+Q
+Q
+q
+206.216 169.690 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 171.190 cm /I126 Do
+Q
+Q
+q
+420.716 169.690 164.700 5.250 re W n
+q
+164.700 0 0 3.750 420.716 171.190 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 514.916 181.643 cm /I168 Do
+Q
+0.000 0.000 0.000 rg
+BT 526.166 181.869 Td /F3 9.8 Tf  [(I am not sure)] TJ ET
+q
+589.916 174.238 70.000 5.250 re W n
+q
+70.000 0 0 3.750 589.916 175.738 cm /I158 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 151.119 Td /F3 9.8 Tf  [(Typhoid)] TJ ET
+q
+37.016 143.488 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 144.988 cm /I121 Do
+Q
+Q
+q
+206.216 138.940 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 140.440 cm /I126 Do
+Q
+Q
+q
+420.716 138.940 164.700 5.250 re W n
+q
+164.700 0 0 3.750 420.716 140.440 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 514.916 150.893 cm /I170 Do
+Q
+0.000 0.000 0.000 rg
+BT 526.166 151.119 Td /F3 9.8 Tf  [(I am not sure)] TJ ET
+q
+589.916 143.488 70.000 5.250 re W n
+q
+70.000 0 0 3.750 589.916 144.988 cm /I158 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 120.369 Td /F3 9.8 Tf  [(Yellow Fever)] TJ ET
+q
+37.016 112.738 164.700 5.250 re W n
+q
+164.700 0 0 3.750 37.016 114.238 cm /I121 Do
+Q
+Q
+q
+206.216 108.190 210.000 5.250 re W n
+q
+210.000 0 0 3.750 206.216 109.690 cm /I126 Do
+Q
+Q
+q
+420.716 108.190 164.700 5.250 re W n
+q
+164.700 0 0 3.750 420.716 109.690 cm /I121 Do
+Q
+Q
+q
+9.750 0 0 9.750 514.916 120.143 cm /I172 Do
+Q
+0.000 0.000 0.000 rg
+BT 526.166 120.369 Td /F3 9.8 Tf  [(I am not sure)] TJ ET
+q
+589.916 112.738 70.000 5.250 re W n
+q
+70.000 0 0 3.750 589.916 114.238 cm /I158 Do
+Q
+Q
+0.000 0.000 0.000 rg
+BT 37.016 92.285 Td /F1 12.0 Tf  [( )] TJ ET
+BT 37.016 75.410 Td /F3 9.8 Tf  [(Others Vaccinations or Comments )] TJ ET
+q
+37.016 67.780 622.900 5.250 re W n
+q
+622.900 0 0 3.750 37.016 69.280 cm /I114 Do
+Q
+Q
+1.000 1.000 1.000 rg
+37.016 643.425 538.500 66.000 re f
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+37.391 643.800 537.750 65.250 re S
+206.216 491.077 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 491.452 46.500 20.250 re S
+0.000 0.000 0.000 rg
+BT 209.216 499.806 Td /F3 9.8 Tf  [(2)] TJ ET
+1.000 1.000 1.000 rg
+345.716 491.077 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+346.091 491.452 46.500 20.250 re S
+0.000 0.000 0.000 rg
+BT 348.716 499.806 Td /F3 9.8 Tf  [(2000)] TJ ET
+1.000 1.000 1.000 rg
+206.216 465.577 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 465.952 46.500 20.250 re S
+0.000 0.000 0.000 rg
+BT 209.216 474.306 Td /F3 9.8 Tf  [(2)] TJ ET
+1.000 1.000 1.000 rg
+345.716 465.577 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+346.091 465.952 46.500 20.250 re S
+0.000 0.000 0.000 rg
+BT 348.716 474.306 Td /F3 9.8 Tf  [(2000)] TJ ET
+1.000 1.000 1.000 rg
+206.216 434.827 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 435.202 46.500 20.250 re S
+0.000 0.000 0.000 rg
+BT 209.216 443.556 Td /F3 9.8 Tf  [(2)] TJ ET
+1.000 1.000 1.000 rg
+345.716 434.827 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+346.091 435.202 46.500 20.250 re S
+0.000 0.000 0.000 rg
+BT 348.716 443.556 Td /F3 9.8 Tf  [(2000)] TJ ET
+1.000 1.000 1.000 rg
+37.016 318.667 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 319.042 537.750 65.250 re S
+206.216 205.690 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 206.065 46.500 20.250 re S
+345.716 205.690 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+346.091 206.065 46.500 20.250 re S
+206.216 174.940 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 175.315 46.500 20.250 re S
+345.716 174.940 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+346.091 175.315 46.500 20.250 re S
+206.216 144.190 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 144.565 46.500 20.250 re S
+345.716 144.190 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+346.091 144.565 46.500 20.250 re S
+206.216 113.440 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+206.591 113.815 46.500 20.250 re S
+345.716 113.440 47.250 21.000 re f
+0.75 w 0 J [  ] 0 d
+346.091 113.815 46.500 20.250 re S
+endstream
+endobj
+177 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 27>>
+stream
+™cøşåûÿÿÿÿÿÿşB#Ààå §+
+endstream
+endobj
+178 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 177 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+179 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 506
+/Height 5
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 506 /BitsPerComponent 8>>
+/Mask  [ 255 255 255 255 255 255 ] 
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 48>>
+stream
+X…íÔÁ  Ã0`ÿË ]í	òÊN² ˜îü à»¨`÷ ì ÂY>
+endstream
+endobj
+180 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 93
+/Height 5
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 93 /BitsPerComponent 8>>
+/Mask  [ 255 255 255 255 255 255 ] 
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 35>>
+stream
+8cüÿÿ?Ã(À Lí€A
+FÃ;ì`4\° s^
+endstream
+endobj
+181 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøòå?0üÿ?$x Ë•¨B
+endstream
+endobj
+182 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 181 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+183 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+184 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 183 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+185 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 42>>
+stream
+™cøşåÿêÿ@âÿÿ/ÿ
+
+€Èa a°0 Yÿ‘ÁÀò G¢Ç
+endstream
+endobj
+186 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 185 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 197>>
+stream
+(‘‘1NQDmÏŒıs‡Ğ-R¤(‡ôÙ›¤¡â*¤wXŠ¿Jø[DŒ\XòÓŒeûÇñhÿÍìıpx¦‰½;~­fî.¡ÄıîmñëzÚno½‰".—ï{î_E¸ÈLŠèµæ""R¬$	DdjàH´’ˆ[‰¤»›Yk›K¢•*™’$`‰k­­ıR	 @D¸û<ÏG?1E’Šˆ~räZåõúSUJeæ²ßlÄÈ½¾<¯Ÿ0Šfvš¦Ç™ı™‹¢
+endstream
+endobj
+187 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+188 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 187 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 332>>
+stream
+(‘cìëïg °000¤¥¦b‘`aaddüû÷ï¿ÿfÍÍİµÿ(²"iIñ+·?Üºÿ:5ÒRRLjÈÊÈ@ŒŒŒŠrÒ}óÖ¼ığÕéÁ)q!&4ëE„º÷öÃWa=‰ÿş¡¨ãââàä`ä[¿ó3S„¯á—¯_ ²Puâb"_¾19óXBLèÄ¹‡¯ß~••´1UúõóÂ¿’â"æŸ¼y÷•šÔÚí—˜˜ƒ=şıûÇÎÁbŞû÷
+’ì«º¶<yñAL˜×ÑJõß¿¬¬,(ê~şüÉÃÍîl£ÆÈÈÈÈÈèï¦ËÈğŸ‰‰‰•…Å^f¦ï^‡xê12ügaav²RıüåËÿÿ™™QÕiij@%7Áşÿÿÿÿşå`gG·Y³gcÆ  ‘ÒjÔ
+endstream
+endobj
+189 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+190 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 189 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 332>>
+stream
+(‘cìëïg °000¤¥¦b‘`aaddüû÷ï¿ÿfÍÍİµÿ(²"iIñ+·?Üºÿ:5ÒRRLjÈÊÈ@ŒŒŒŠrÒ}óÖ¼ığÕéÁ)q!&4ëE„º÷öÃWa=‰ÿş¡¨ãââàä`ä[¿ó3S„¯á—¯_ ²Puâb"_¾19óXBLèÄ¹‡¯ß~••´1UúõóÂ¿’â"æŸ¼y÷•šÔÚí—˜˜ƒ=şıûÇÎÁbŞû÷
+’ì«º¶<yñAL˜×ÑJõß¿¬¬,(ê~şüÉÃÍîl£ÆÈÈÈÈÈèï¦ËÈğŸ‰‰‰•…Å^f¦ï^‡xê12ügaav²RıüåËÿÿ™™QÕiij@%7Áşÿÿÿÿşå`gG·Y³gcÆ  ‘ÒjÔ
+endstream
+endobj
+191 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 19>>
+stream
+™cøşå?0üÿ?$x Í´¨E
+endstream
+endobj
+192 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 191 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 332>>
+stream
+(‘cìëïg °000¤¥¦b‘`aaddüû÷ï¿ÿfÍÍİµÿ(²"iIñ+·?Üºÿ:5ÒRRLjÈÊÈ@ŒŒŒŠrÒ}óÖ¼ığÕéÁ)q!&4ëE„º÷öÃWa=‰ÿş¡¨ãââàä`ä[¿ó3S„¯á—¯_ ²Puâb"_¾19óXBLèÄ¹‡¯ß~••´1UúõóÂ¿’â"æŸ¼y÷•šÔÚí—˜˜ƒ=şıûÇÎÁbŞû÷
+’ì«º¶<yñAL˜×ÑJõß¿¬¬,(ê~şüÉÃÍîl£ÆÈÈÈÈÈèï¦ËÈğŸ‰‰‰•…Å^f¦ï^‡xê12ügaav²RıüåËÿÿ™™QÕiij@%7Áşÿÿÿÿşå`gG·Y³gcÆ  ‘ÒjÔ
+endstream
+endobj
+193 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 36>>
+stream
+™cøş¥é?0@¨ïÈ<T9²xß‰TùıÔT Ëi¦
+endstream
+endobj
+194 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 13
+/Height 13
+/SMask 193 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 13 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 332>>
+stream
+(‘cìëïg °000¤¥¦b‘`aaddüû÷ï¿ÿfÍÍİµÿ(²"iIñ+·?Üºÿ:5ÒRRLjÈÊÈ@ŒŒŒŠrÒ}óÖ¼ığÕéÁ)q!&4ëE„º÷öÃWa=‰ÿş¡¨ãââàä`ä[¿ó3S„¯á—¯_ ²Puâb"_¾19óXBLèÄ¹‡¯ß~••´1UúõóÂ¿’â"æŸ¼y÷•šÔÚí—˜˜ƒ=şıûÇÎÁbŞû÷
+’ì«º¶<yñAL˜×ÑJõß¿¬¬,(ê~şüÉÃÍîl£ÆÈÈÈÈÈèï¦ËÈğŸ‰‰‰•…Å^f¦ï^‡xê12ügaav²RıüåËÿÿ™™QÕiij@%7Áşÿÿÿÿşå`gG·Y³gcÆ  ‘ÒjÔ
+endstream
+endobj
+195 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 196 0 R
+>>
+endobj
+196 0 obj
+<<
+/Length 3089 >>
+stream
+
+1.000 1.000 1.000 rg
+0.749 0.749 0.753 RG
+0.75 w 0 J [  ] 0 d
+0.000 0.459 0.788 rg
+BT 37.016 670.565 Td /F2 14.2 Tf  [(FINANCE & EXTRA)] TJ ET
+1.000 1.000 1.000 rg
+37.016 688.984 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+37.391 689.359 537.750 65.250 re S
+0.000 0.459 0.788 rg
+BT 38.516 648.561 Td /F2 9.8 Tf  [(Financial Information)] TJ ET
+0.000 0.000 0.000 rg
+BT 38.516 626.484 Td /F3 9.8 Tf  [(Do you have the total school fees?)] TJ ET
+q
+9.000 0 0 9.000 205.811 627.008 cm /I174 Do
+Q
+BT 218.561 626.484 Td /F3 9.8 Tf  [(No)] TJ ET
+q
+9.000 0 0 9.000 233.732 627.008 cm /I176 Do
+Q
+BT 246.482 626.484 Td /F3 9.8 Tf  [(Yes)] TJ ET
+1.000 1.000 1.000 rg
+315.122 621.430 148.500 17.250 re f
+0.75 w 0 J [  ] 0 d
+315.497 621.805 147.750 16.500 re S
+0.000 0.459 0.788 rg
+BT 38.516 604.406 Td /F2 9.8 Tf  [(From what source\(s\) will you receive the remainder?)] TJ ET
+1.000 1.000 1.000 rg
+38.516 528.526 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+38.891 528.901 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 41.516 582.254 Td /F3 9.8 Tf  [(Parents and sponsors)] TJ ET
+0.000 0.459 0.788 rg
+BT 38.516 511.502 Td /F2 9.8 Tf  [(Do you have any outstanding debts? If so, explain.)] TJ ET
+1.000 1.000 1.000 rg
+38.516 435.621 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+38.891 435.996 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 41.516 489.349 Td /F3 9.8 Tf  [(no)] TJ ET
+0.000 0.459 0.788 rg
+BT 38.516 648.561 Td /F2 9.8 Tf  [(Financial Information)] TJ ET
+0.000 0.000 0.000 rg
+BT 38.516 626.484 Td /F3 9.8 Tf  [(Do you have the total school fees?)] TJ ET
+q
+9.000 0 0 9.000 205.811 627.008 cm /I178 Do
+Q
+BT 218.561 626.484 Td /F3 9.8 Tf  [(No)] TJ ET
+q
+9.000 0 0 9.000 233.732 627.008 cm /I180 Do
+Q
+BT 246.482 626.484 Td /F3 9.8 Tf  [(Yes)] TJ ET
+BT 38.516 626.484 Td /F3 9.8 Tf  [(Do you have the total school fees?)] TJ ET
+q
+9.000 0 0 9.000 205.811 627.008 cm /I182 Do
+Q
+BT 218.561 626.484 Td /F3 9.8 Tf  [(No)] TJ ET
+q
+9.000 0 0 9.000 233.732 627.008 cm /I184 Do
+Q
+BT 246.482 626.484 Td /F3 9.8 Tf  [(Yes)] TJ ET
+1.000 1.000 1.000 rg
+315.122 621.430 148.500 17.250 re f
+0.75 w 0 J [  ] 0 d
+315.497 621.805 147.750 16.500 re S
+0.000 0.459 0.788 rg
+BT 38.516 604.406 Td /F2 9.8 Tf  [(From what source\(s\) will you receive the remainder?)] TJ ET
+1.000 1.000 1.000 rg
+38.516 528.526 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+38.891 528.901 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 41.516 582.254 Td /F3 9.8 Tf  [(Parents and sponsors)] TJ ET
+1.000 1.000 1.000 rg
+38.516 528.526 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+38.891 528.901 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 41.516 582.254 Td /F3 9.8 Tf  [(Parents and sponsors)] TJ ET
+0.000 0.459 0.788 rg
+BT 38.516 511.502 Td /F2 9.8 Tf  [(Do you have any outstanding debts? If so, explain.)] TJ ET
+1.000 1.000 1.000 rg
+38.516 435.621 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+38.891 435.996 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 41.516 489.349 Td /F3 9.8 Tf  [(no)] TJ ET
+1.000 1.000 1.000 rg
+38.516 435.621 538.500 66.000 re f
+0.75 w 0 J [  ] 0 d
+38.891 435.996 537.750 65.250 re S
+0.000 0.000 0.000 rg
+BT 41.516 489.349 Td /F3 9.8 Tf  [(no)] TJ ET
+endstream
+endobj
+197 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+198 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 197 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 384>>
+stream
+•EÍnÚ@E¿qÿŒm µU%«ª”)Ù$³åEâ<Zœ§H%Q¥2*u0`ˆ ‰ƒ1Y8Qïæ.îY\ŸéõûBˆÙl ”RÆØåÅE1¡¢ÂÛÛz½ÎÚmÏó `:Š(Šã8¸ºú€nÂĞgìèèø×ïh±z ç°òİoİßİ…¸Ôë÷—ËåùÙyoğ“bš&B({KÓ4==ş1ªÕêA§Ó9=9ùówªà²mãR‰èZ¥l©o6kZ«F#%IJébµª”m]Ã¶©W,Ã"FÍı’e;Ji’$¥â¸†114CSuMUUUQĞ~¦I²l‡R\×Ïç®s˜gÛ‚PUŒ1Î÷¹mY‹Å?ÇqŸ±±ß¾6___Ò·TQ l·Ù.ÛBÆBøŒ)œs)åÃÃ½ÏBh½ŞlŸó<7}8J)9ç2oÂ°Ùl¶[­F£ q‹(’R^Áã Ğív£ÇÇÉd çùŒqÎ‹éñšq
+endstream
+endobj
+199 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+200 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 199 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 422>>
+stream
+•cd€“§Nİ»wïÕ«WbbbJJJæff)FµpÑ"			%EEqqq†—/_Ş»ÿÅ‹ñqqPE.TVRÒÒÒ>{éúé+·ÌõÔu5¯]½z÷Ş½„øxÆ“§N}øğÁÀÀpÁÚíó6ìS”‘x÷îİ«÷Ÿò¢|bƒ<Î;'  Àìèè¨«£sıöÃæY«rr3¢ã^«(_ØìÌÅë®æ:Ò’’—/_fzóæ˜˜Ø‘óWxØ™ş+ËO{ü`ÿƒ¿Ì^Ù¿¿~<vá¦˜˜Ø›7oX gefyñâÅ¤]ÿñqÿøÍğı×.v¶¿ÿ2222‰ˆˆ¼~ıÚÎT—•[àí†éïŸ}ûüêÛ¿ÓÙyœ,Ş½{',,Ì\VZúâåK}mQ>Î“g/3]ÙÍ~ó7Ë„ª}•ËW®HJH ‚@WWïáÓgWo?bfa6ÖV¼pá4 nZ°p¡”””¢‚‚¤¤$Ã‹/îİ¿ÿìÙ³„øxDˆ300œ8qâşƒÏŸ?g``WVR²°°€H Ä™±
+endstream
+endobj
+201 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+202 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 201 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 384>>
+stream
+•EÍnÚ@E¿qÿŒm µU%«ª”)Ù$³åEâ<Zœ§H%Q¥2*u0`ˆ ‰ƒ1Y8Qïæ.îY\ŸéõûBˆÙl ”RÆØåÅE1¡¢ÂÛÛz½ÎÚmÏó `:Š(Šã8¸ºú€nÂĞgìèèø×ïh±z ç°òİoİßİ…¸Ôë÷—ËåùÙyoğ“bš&B({KÓ4==ş1ªÕêA§Ó9=9ùówªà²mãR‰èZ¥l©o6kZ«F#%IJébµª”m]Ã¶©W,Ã"FÍı’e;Ji’$¥â¸†114CSuMUUUQĞ~¦I²l‡R\×Ïç®s˜gÛ‚PUŒ1Î÷¹mY‹Å?ÇqŸ±±ß¾6___Ò·TQ l·Ù.ÛBÆBøŒ)œs)åÃÃ½ÏBh½ŞlŸó<7}8J)9ç2oÂ°Ùl¶[­F£ q‹(’R^Áã Ğív£ÇÇÉd çùŒqÎ‹éñšq
+endstream
+endobj
+203 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+204 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 203 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 422>>
+stream
+•cd€“§Nİ»wïÕ«WbbbJJJæff)FµpÑ"			%EEqqq†—/_Ş»ÿÅ‹ñqqPE.TVRÒÒÒ>{éúé+·ÌõÔu5¯]½z÷Ş½„øxÆ“§N}øğÁÀÀpÁÚíó6ìS”‘x÷îİ«÷Ÿò¢|bƒ<Î;'  Àìèè¨«£sıöÃæY«rr3¢ã^«(_ØìÌÅë®æ:Ò’’—/_fzóæ˜˜Ø‘óWxØ™ş+ËO{ü`ÿƒ¿Ì^Ù¿¿~<vá¦˜˜Ø›7oX gefyñâÅ¤]ÿñqÿøÍğı×.v¶¿ÿ2222‰ˆˆ¼~ıÚÎT—•[àí†éïŸ}ûüêÛ¿ÓÙyœ,Ş½{',,Ì\VZúâåK}mQ>Î“g/3]ÙÍ~ó7Ë„ª}•ËW®HJH ‚@WWïáÓgWo?bfa6ÖV¼pá4 nZ°p¡”””¢‚‚¤¤$Ã‹/îİ¿ÿìÙ³„øxDˆ300œ8qâşƒÏŸ?g``WVR²°°€H Ä™±
+endstream
+endobj
+205 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+206 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 205 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 384>>
+stream
+•EÍnÚ@E¿qÿŒm µU%«ª”)Ù$³åEâ<Zœ§H%Q¥2*u0`ˆ ‰ƒ1Y8Qïæ.îY\ŸéõûBˆÙl ”RÆØåÅE1¡¢ÂÛÛz½ÎÚmÏó `:Š(Šã8¸ºú€nÂĞgìèèø×ïh±z ç°òİoİßİ…¸Ôë÷—ËåùÙyoğ“bš&B({KÓ4==ş1ªÕêA§Ó9=9ùówªà²mãR‰èZ¥l©o6kZ«F#%IJébµª”m]Ã¶©W,Ã"FÍı’e;Ji’$¥â¸†114CSuMUUUQĞ~¦I²l‡R\×Ïç®s˜gÛ‚PUŒ1Î÷¹mY‹Å?ÇqŸ±±ß¾6___Ò·TQ l·Ù.ÛBÆBøŒ)œs)åÃÃ½ÏBh½ŞlŸó<7}8J)9ç2oÂ°Ùl¶[­F£ q‹(’R^Áã Ğív£ÇÇÉd çùŒqÎ‹éñšq
+endstream
+endobj
+207 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 37>>
+stream
+™c```ø`ğÿ?‚÷ÿ?‚÷	PÎA1ÕR$ç  n(w‰
+endstream
+endobj
+208 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 12
+/Height 12
+/SMask 207 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 12 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 422>>
+stream
+•cd€“§Nİ»wïÕ«WbbbJJJæff)FµpÑ"			%EEqqq†—/_Ş»ÿÅ‹ñqqPE.TVRÒÒÒ>{éúé+·ÌõÔu5¯]½z÷Ş½„øxÆ“§N}øğÁÀÀpÁÚíó6ìS”‘x÷îİ«÷Ÿò¢|bƒ<Î;'  Àìèè¨«£sıöÃæY«rr3¢ã^«(_ØìÌÅë®æ:Ò’’—/_fzóæ˜˜Ø‘óWxØ™ş+ËO{ü`ÿƒ¿Ì^Ù¿¿~<vá¦˜˜Ø›7oX gefyñâÅ¤]ÿñqÿøÍğı×.v¶¿ÿ2222‰ˆˆ¼~ıÚÎT—•[àí†éïŸ}ûüêÛ¿ÓÙyœ,Ş½{',,Ì\VZúâåK}mQ>Î“g/3]ÙÍ~ó7Ë„ª}•ËW®HJH ‚@WWïáÓgWo?bfa6ÖV¼pá4 nZ°p¡”””¢‚‚¤¤$Ã‹/îİ¿ÿìÙ³„øxDˆ300œ8qâşƒÏŸ?g``WVR²°°€H Ä™±
+endstream
+endobj
+xref
+0 209
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000002749 00000 n 
+0000002786 00000 n 
+0000002900 00000 n 
+0000002963 00000 n 
+0000010623 00000 n 
+0000010732 00000 n 
+0000010844 00000 n 
+0000010952 00000 n 
+0000011650 00000 n 
+0000011715 00000 n 
+0000019063 00000 n 
+0000019341 00000 n 
+0000019980 00000 n 
+0000020258 00000 n 
+0000020935 00000 n 
+0000021213 00000 n 
+0000021890 00000 n 
+0000022168 00000 n 
+0000022807 00000 n 
+0000023138 00000 n 
+0000023416 00000 n 
+0000024093 00000 n 
+0000024371 00000 n 
+0000025010 00000 n 
+0000025075 00000 n 
+0000030299 00000 n 
+0000030625 00000 n 
+0000030690 00000 n 
+0000034372 00000 n 
+0000034437 00000 n 
+0000041868 00000 n 
+0000042128 00000 n 
+0000042580 00000 n 
+0000042840 00000 n 
+0000043292 00000 n 
+0000043576 00000 n 
+0000044028 00000 n 
+0000044288 00000 n 
+0000044740 00000 n 
+0000045045 00000 n 
+0000045497 00000 n 
+0000045802 00000 n 
+0000046254 00000 n 
+0000046559 00000 n 
+0000047011 00000 n 
+0000047316 00000 n 
+0000047768 00000 n 
+0000048069 00000 n 
+0000048521 00000 n 
+0000048831 00000 n 
+0000049283 00000 n 
+0000049593 00000 n 
+0000050045 00000 n 
+0000050355 00000 n 
+0000050807 00000 n 
+0000051117 00000 n 
+0000051569 00000 n 
+0000051879 00000 n 
+0000052331 00000 n 
+0000052591 00000 n 
+0000053043 00000 n 
+0000053303 00000 n 
+0000053755 00000 n 
+0000054015 00000 n 
+0000054467 00000 n 
+0000054727 00000 n 
+0000055314 00000 n 
+0000055574 00000 n 
+0000056026 00000 n 
+0000056339 00000 n 
+0000056791 00000 n 
+0000057112 00000 n 
+0000057564 00000 n 
+0000057885 00000 n 
+0000058337 00000 n 
+0000058658 00000 n 
+0000059110 00000 n 
+0000059509 00000 n 
+0000059961 00000 n 
+0000060360 00000 n 
+0000060812 00000 n 
+0000061211 00000 n 
+0000061663 00000 n 
+0000062062 00000 n 
+0000062514 00000 n 
+0000062913 00000 n 
+0000063365 00000 n 
+0000063764 00000 n 
+0000064216 00000 n 
+0000064615 00000 n 
+0000065067 00000 n 
+0000065466 00000 n 
+0000065918 00000 n 
+0000066317 00000 n 
+0000066769 00000 n 
+0000067168 00000 n 
+0000067620 00000 n 
+0000068020 00000 n 
+0000068474 00000 n 
+0000068874 00000 n 
+0000069328 00000 n 
+0000069728 00000 n 
+0000070182 00000 n 
+0000070582 00000 n 
+0000071036 00000 n 
+0000071436 00000 n 
+0000071890 00000 n 
+0000072290 00000 n 
+0000072744 00000 n 
+0000073144 00000 n 
+0000073598 00000 n 
+0000073998 00000 n 
+0000074452 00000 n 
+0000074852 00000 n 
+0000075306 00000 n 
+0000075706 00000 n 
+0000076160 00000 n 
+0000076471 00000 n 
+0000076925 00000 n 
+0000077230 00000 n 
+0000077684 00000 n 
+0000077989 00000 n 
+0000078443 00000 n 
+0000078748 00000 n 
+0000079202 00000 n 
+0000079507 00000 n 
+0000079961 00000 n 
+0000080266 00000 n 
+0000080720 00000 n 
+0000081052 00000 n 
+0000081119 00000 n 
+0000088392 00000 n 
+0000088671 00000 n 
+0000089350 00000 n 
+0000089629 00000 n 
+0000090270 00000 n 
+0000090549 00000 n 
+0000091190 00000 n 
+0000091511 00000 n 
+0000091799 00000 n 
+0000092253 00000 n 
+0000092541 00000 n 
+0000093130 00000 n 
+0000093453 00000 n 
+0000093717 00000 n 
+0000094306 00000 n 
+0000094708 00000 n 
+0000095162 00000 n 
+0000095564 00000 n 
+0000096018 00000 n 
+0000096390 00000 n 
+0000096844 00000 n 
+0000097105 00000 n 
+0000097559 00000 n 
+0000097939 00000 n 
+0000098393 00000 n 
+0000098654 00000 n 
+0000099108 00000 n 
+0000099369 00000 n 
+0000099958 00000 n 
+0000100330 00000 n 
+0000100784 00000 n 
+0000101045 00000 n 
+0000101499 00000 n 
+0000101760 00000 n 
+0000102214 00000 n 
+0000102475 00000 n 
+0000102929 00000 n 
+0000103190 00000 n 
+0000103644 00000 n 
+0000103905 00000 n 
+0000104359 00000 n 
+0000104426 00000 n 
+0000113790 00000 n 
+0000114059 00000 n 
+0000114513 00000 n 
+0000114839 00000 n 
+0000115150 00000 n 
+0000115411 00000 n 
+0000115865 00000 n 
+0000116126 00000 n 
+0000116580 00000 n 
+0000116864 00000 n 
+0000117318 00000 n 
+0000117579 00000 n 
+0000118168 00000 n 
+0000118429 00000 n 
+0000119018 00000 n 
+0000119279 00000 n 
+0000119868 00000 n 
+0000120146 00000 n 
+0000120735 00000 n 
+0000120802 00000 n 
+0000123945 00000 n 
+0000124224 00000 n 
+0000124865 00000 n 
+0000125144 00000 n 
+0000125823 00000 n 
+0000126102 00000 n 
+0000126743 00000 n 
+0000127022 00000 n 
+0000127701 00000 n 
+0000127980 00000 n 
+0000128621 00000 n 
+0000128900 00000 n 
+trailer
+<<
+/Size 209
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+129579
+%%EOF

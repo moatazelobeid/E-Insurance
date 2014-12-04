@@ -1,0 +1,41 @@
+Error Under Safari
+http://192.168.0.118/caribbean/caribbean-news-detail/44/
+
+Error Under IE
+http://192.168.0.118/caribbean/#
+
+Error Under Fire Fox
+http://192.168.0.118/caribbean/contact-us/
+
+Error Under Safari
+http://192.168.0.118/caribbean/mission/
+
+Error Under Safari
+http://192.168.0.118/caribbean/employment-details/1/
+
+Error Under CHROME/Safari/FireFox/IE
+http://192.168.0.118/caribbean/festivals-events/#
+
+Error Under IE
+http://192.168.0.118/caribbean/
+
+
+Error Under Fire Fox/ Chrome/ Safari/IE
+http://192.168.0.118/caribbean/contact-us/
+
+
+Error Under Fire Fox/ Chrome/ Safari/IE
+http://192.168.0.118/caribbean/caribbean-news-detail/8/
+
+
+
+
+
+
+
+
+
+
+
+
+
