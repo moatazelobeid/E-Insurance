@@ -1,0 +1,42 @@
+
+/*Quotes style*/
+div.pagination {
+	padding:1px 0px 3px 3px;
+	margin:3px 0px 3px 3px;
+	text-align:center;
+	text-align:right;
+}
+
+div.pagination a {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	border: 1px solid #ddd;
+	background-color:#eaeaea;
+	text-decoration: none; 
+	color: #aaa;
+}
+div.pagination a:hover, div.pagination a:active {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	background-color: #7fbdd8;
+	color:#FFF;
+	border: 1px solid #a0a0a0;
+    text-decoration: none; 
+
+}
+div.pagination span.current {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	border: 1px solid #e0e0e0;
+	font-weight: bold;
+	background-color: #7fbdd8;
+	color:#FFF;
+}
+div.pagination span.disabled {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	border: 1px solid #f3f3f3;
+	color: #ccc;
+	font-size:11px;
+	background-color:#f2f0f0;
+}
